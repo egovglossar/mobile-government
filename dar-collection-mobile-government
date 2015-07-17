@@ -1,0 +1,2363 @@
+Collecting “MobileGov” Best Practices worldwide 
+
+
+Definition “mobileGov”:
+MobileGov is public service delivery including transactions on mobile devices.
+* “The strategy and its implementation involving the utilization of all kinds of wireless and mobile technology, services, applications and devices for improving benefits to the parties involved in e-government including citizens, businesses and all government units” MobileGov is an integral part, a sub-set, of e-government. (Kushchu, I. and Kuscu, H (2003): “From E-government  to M-government: Facing the Inevitable” in the  proceeding of European conference on E-Governemnt (ECEG 2003), Trinity College, Dublin)
+* “The general idea of m-Government is to make use of mobile technologies in order to enhance existing e-Government procedures and services and to develop new mobile approaches in this field of application” (mobile Gov Studie, Austria, S. 7)
+* MobileGov: „Extension of e-government to mobile platforms, as well as the strategic use of government services and applications which are only possible using mobile phones, laptop computers, […] and wireless internet infrastructures“ (Hutchinson Encyclopedia 2013, 1; vgl. auch Capra et al. 2008, 1214)
+* E-Gov: „The use of information and communication technologies in public administrations combined with organiztional change and new skills in order to improve public services and democratic processes and strengthen support to public policies“ (Europäische Kommission 2004; vgl. auch Capra et al. 2008, 1213)
+
+
+
+
+
+
+________________
+
+
+Table of Content 
+
+
+A. Studies
+   * 1 Lünendonk®-Trendstudie 2014 „Mobile Enterprise Review“
+   * 2 “The changing digital ecosystem for government”
+   * 3 “Sieben Thesen zu Mobile Government”
+   * 4 “10 Ways Enterprise Mobility can Transform Government”
+   * 5 Digital Government: Building a 21st Century Platform to Better Serve the American People
+   * 6 “The value of our digital identity”
+   * 7 BYOD nationwide
+   * 8 Enforcing Identity and Access Management in Cloud and Mobile Environments
+   * 9 Mobile Technologies for Responsive Governments and Connected Societies
+   * 10 ISPRAT-White Paper zu mGov: “Mobiles Regieren und verwalten in einer modernen Welt” M-Government, Mobile Technologies for Responsive Governments and Connected Societies, OECD publishing
+   * 11 Cisco 2014 Annual Security Report
+   * 12 QUESTION 17-3/2: Progress on E-Government activities and identification of areas of E-Government for the benefits of developing countries.
+   * 13 Wie nutzen Kommunen Social Media
+   * 14 Mobile Government Guidelines
+   * 15 Audit Report: NASA’s Management of its Smartphones, Tablets, and Other Mobile Devices
+   * 16 Best Practices of Use of Information and Communication Technologies in the Public & Private Sector
+   * 17 E-Government for mobile Societies
+B. Target group: Government-to-Government (G2G) / Government-to-employees (G2E)
+   * 1 Mobile Fingerprint
+   * 2 Mobile Notices
+   * 3 London digital policing
+   * 4 SitzungsApp iRICH
+   * 5 MyEVOC Anaheim
+   * 6 ETS2 Travel Management
+   * 7 ANAO mobile Workforce
+   * 8 California Department of Justice (DOJ) goes mobile with citrix
+   * 9 Mobese (Mobile Electronic System Integration)
+   * 10 TBS (Traffic Information System)
+   * 11 Earthquake Monitoring and Information System
+   * 12 Strafzettel per iPhone via App: WiNOWiG mobil
+   * 13 Wohnungsübergabe (Übertragbarkeit auf Verwaltungsprozesse gegeben)
+   * 14 Baumkataster - Beispiel: Wiener Wohnen
+   * 15 OntheGo Secure Government Mobile Payment App
+   * 16 iCOPS
+   * 17 DOL-Timesheet
+   * 18 PTSD Coach
+   * 19 MOBIKO
+   * 20 ASYS
+   * 21 PolMobil
+   * 22 Polis.NET
+   * 23 Project Nomad
+C. Target group: Government-to-Citizen (G2C)
+   * 1 "Text4Baby"
+   * 2 Street Bump Help Improve Your Streets
+   * 3 Züri wie neu
+   * 4 Speed Adviser
+   * 5 Mobile Canberra
+   * 6 Right Move Perth
+   * 7 MyTransport.SG
+   * 8 MOCI
+   * 9 LAF Shield Application
+   * 10 Government e-Procurement Portal
+   * 11 Zoll und Reise
+   * 12 Schilder App
+   * 13 Wasserwege-App
+   * 14 Dreck-weg-App
+   * 15 Bürgerkarte /Handysignatur
+   * 16 MIL@pp „Landkreis Miltenberg“
+   * 17 stoerung24
+   * 18 Waste-less-App
+   * 19 Evergreen Activity Finder
+   * 20 MarineMate
+   * 21 TRACnet
+   * 22 ID Track and Trace
+   * 23 RACKpay
+   * 24 MOFA: Ministry of Foreign Affairs
+   * 25 AWQAF
+   * 26 UAE Laws HD
+   * 27 Abu Dhabi Police
+   * 28 CityGuard
+   * 29 DEWA
+   * 30 mPay
+   * 31 E-Water Payment- National Water and Sewerage Corp Payments
+   * 32 iRICH - die BürgerApp
+   * 33 Smart Traveler
+   * 34 MyAnaheim (Graffiti)
+   * 35 BTP - Bangalore Traffic Info
+   * 36 KATWARN
+   * 37 M4Girls
+   * 38 BridgeIT
+   * 39 Invil Information Network Villages
+   * 40 S.A.R.A. “Sexual Assault Report Anonymously”
+   * 42 Parken Wien
+   * 43 Entsorgungs-App
+   * 44 IRS2Go
+   * 45 Ask Karen
+   * 46 Nice Connected Boulevard
+   * 47 115-App
+D. Target group: Government-to-Business (G2B)
+   * 1 Free SIMs for farmers
+   * 2 Open Payments Mobile for Physicians
+   * 3 NAFIS/NALEP
+   * 4 SC (Securities Commission) Assist
+   * 5 AMSDP, (Agricultural Marketing Systems Development Program)
+   * 6 QAS VS (The Question and Answer Service Voucher System)
+   * 7 KATWARN
+   * 8 Straßenbeleuchtung
+   * 9 ASYS
+   * 10 Open Payments Mobile for Physicians
+E. Target group: Government-to-Science/Education
+   * 1 Science.gov Mobile
+   * 2 WISQARS mobil (Web-based Injury Statistics Query and Reporting System)
+   * 3 FREE
+F. Rethinking structures and ideas
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+
+
+A. Studies
+
+
+No.
+	Names / Titel
+	Description
+	Key notes / Main statements
+	Source / Link 
+	Parties involved / Year
+	Country
+	1
+	Lünendonk®-Trendstudie 2014 „Mobile Enterprise Review“
+
+
+	“Mehr Strategie wagen”- Befragung Unternehmen des gehobenen Mittelstandes und Großunternehmen: inwieweit sie sich mit dem Thema Mobile Enterprise beschäftigen, welche Erfahrungen vorliegen und welche Ziele die Unternehmen verfolgen mit dem Fokus, dass Unternehmen
+Daten und (Teil-)Geschäftsprozesse aufbrechen
+und über mobile Endgeräte oder
+Tablets mobil verfügbar machen, so dass Mitarbeiter
+oder Kunden auf diese Prozesse und Informationen
+zugreifen können
+	Fast zwei Drittel aller Befragten Entscheider aus Wirtschaft und öffentlichem Sektor erwarten durch einen verstärkten Einsatz mobiler Lösungen Produktivitätssteigerungen. Neben Sicherheitsaspekten stellen auch Komplexitäts- und Integrationsfragestellungen deutliche Hemmnisse bei der Ausweitung mobiler Lösungen dar. Ebenso BYOD (S. 21.)
+Hingegen: zB: Kosten, interne Skills und Kapazitäten werden als nicht problematisch angesehen.   
+Mit 65,9 Prozent halten knapp zwei Drittel der befragten
+Unternehmen die Rekrutierung von Fachkräften
+für Mobile-Lösungen für „schwierig“
+(47,2%) oder „sehr schwierig“ (18,7%)
+	http://www.steria.com/de/newsroom/downloads/publikationen/studien/subpage-studien/studien/luenendonkR-trendstudie-2014-mobile-enterprise-review/ 
+
+
+Aktueller Artikel aus der WAZ dazu befragt zu der Studie CIOs, Anbieter und Berater 
+http://www.derwesten.de/wirtschaft/digital/eine-echte-mobile-strategie-haben-die-wenigsten-unternehmen-id9194355.html  
+
+
+	Veröffentlichung Februar  2014
+u.a. i. A. von Steria Mummert Consulting 
+	Germany
+	2
+	“The changing digital ecosystem for government”
+	Government is finally getting in step with its constituents and employees who, increasingly, lead lives that are mobile, hyper-connected, interactive, immediate, and fluid. It’s a new world where connectivity dominates daily routines; everyone expects immediate gratification and instant results, and where government agencies must respond to continuous opportunities and requests. How to satisfy the high expectations when it comes to the quality of their service experience and fulfill the needs of security particulary with regard to public sector services? 
+	* mobile apps must meet the needs of users. Understand the user
+* Device diversity
+* greater performance
+* Speed to market
+* cost containment
+* Security: Focus on the Container, esp. in times of BYOD, several private apps on the device and mixing tenants
+
+
+5 Keys to succes: 
+1. Focus on the user experience
+2. Embrace the cloud
+3. Consider the business benefits
+4. Have a singular operational purpose
+5. Plan to redesign your business processes
+	http://www.epageflip.net/i/104234/14 
+	Winter/2013
+HP
+	USA
+	3
+	“Sieben Thesen zu 
+Mobile Government”
+	Staat und Verwaltung sehen sich aufgrund gesellschaftspolitischer und wirtschaftlicher Entwicklungen mit Herausforderungen wie immer knapper werdenden Budgets auf der einen Seite und gleichzeitig steigenden Erwartungshaltungen an die Behördenkommunikation auf der anderen Seite konfrontiert.M-Gov als „die Abwicklung geschäftlicher Prozesse im Zusammenhang mit Regieren und Verwalten mit Hilfe von mobilen Endgeräten“ ist in der Lage, den ehrgeizigen Zielen wie Wirtschaftlichkeit, Transparenz, Effizienz, Bürger- und Unternehmensorientierung sowie Leistungsfähigkeit näherzukommen, die bereits in der Nationalen E-Government-Strategie formuliert wurden (http://www.it-planungsrat.de/DE/Strategie/negs_node.html) 
+	mGov ist Innovationsmotor, “allways connected society” ist Realität:
+* Verbesserung der Verwaltungseffizienz in der G2G und G2E- Beziehung
+* Mehr Bürgernähe und Transparenz in der Beziehung mit dem Bürger (G2C)
+z.B. Bürgerdienste werden mobil genutzt, Behördengänge fallen weg-konsequentes Weiterdenken des Dienstleistungsgedankens/Servicequalität.
+* Wirtschaftsförderung mit mobiler Kommunikation (G2B)
+Aber: Um im Informationsüberfluß zu bestehen, müssen Inhalte neu gedacht werden, keine Übertragung alter Strategien: Inhalte für mobile Anwendungen müssen also in Bezug auf die
+Nutzungssituation
+sowie die technischen Möglichkeiten der Zielplattform
+hinterfragt und neu gedacht werden und ein Nutzererlebnis muss gewährleistet sein
+
+
+	http://www.init.de/sites/default/files/downloads/init_thesenpapier_mobile_government.pdf
+	INIT AG
+	Germany
+	4
+	“10 Ways Enterprise Mobility can Transform Government”
+	"Clearly, enterprise mobility is transforming government. A recent survey by the Center for Digital Government (CDG) reveals the cost benefits and service enhancements that mobile technology is now delivering to public service organizations. The survey queried 450 public sector stakeholders from around the world on the topic of enterprise mobility."
+	When it comes to benefits of mGov- between 72-95% of public sector stake holder agree with: 
+* MGov improves G2C-relationsships (95%)
+* Reduces costs (85%)
+* Boost employee satisfaction and safety (90%)
+* Improve productivity (90%)
+* Advance transportation (80%)
+* (Bolster public safety (73%))
+* Improve public health (85%)
+* Enhance education (93%)
+* Speed up service delivery (72%)
+	http://www.slideshare.net/sapmobile/cdg-infographic-mobilepublicsectorfinal
+
+
+	The Center for Digital Government is a national research and advisory institute on information technology policies and best practices in state and local government. It’s a division of e.Republic
+	USA
+	5
+	Digital Government: Building a 21st Century Platform to Better Serve the American People 
+	It describes a vision that applies the power and innovation of digital technology to enable citizens and
+an increasingly mobile
+workforce to securely
+access digital information and services anywhere, anytime, and on any device. The strategy recognizes the challenges of integrating effective security and privacy in mobile devices, applications, and wireless networks. It tasked the Department of Homeland Security (DHS), the Department of Defense (DoD)
+and the National Institute of Standards and Technology (NIST) with developing a baseline of standard security requirements
+for mobile computing, and a Mobile Security
+ReferenceArchitecture
+
+
+
+
+	The need to deliver better services to customers at a
+lower cost—whether an agency is supporting the warfighter overseas, a teacher seeking classroom resources or a family figuring out how to pay for college—is pushing every level of government to look for new solutions.New expectations require the
+Federal Government to be ready to deliver and receive digital information and
+services anytime, anywhere and on any device. It must do so safely, securely,
+and with fewer resources. To keep up
+with the pace of change in technology, we need to securely architect our systems
+for interoperability and openness from conception. We need to have common
+standards and more rapidly share the lessons learned by early adopters. We need to produce better content and data, and present it through multiple channels in a
+program and device-agnostic way. We need to adopt a coordinated approach to ensure privacy and security in a digital age
+	http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government-strategy.pdf 
+	May 23, 2012
+	USA
+	6
+	“The value of our digital identity”
+	The concept of digital identity – the sum of all digitally available information about an individual. How exactly digital identity develops is a massive concern for consumers and companies alike. Individuals are worried about losing their privacy and seeing their personal data used against them. Companies, on the other hand, fear the backlash of approaching digital identity the wrong way, be it through their own applications or third-party applications that runon their networks, platforms or channels. 
+	In an increasingly digital society, personal data has become a new form of currency. The biggest challenge for political and business leaders is to
+establish the trust that enables that currency to keep flowing.
+“Digital identity“ is the sum of all digitally available information about an individual. It is becoming increasingly complete and traceable, driven by the exponential growth of available data and the big data capabilities to process it.The value created through digital identity can be massive – at a 22% annual growth rate, applying personal data can deliver a €330 billion annual economic benefit for organizations in Europe by 2020. Individuals will benefit to an even greater degree, as the consumer value will be more than twice as large: €670 billion by 2020. The combined total digital identity value could amount to roughly 8% of the EU-27 GDP.
+	http://www.libertyglobal.com/PDF/public-policy/The-Value-of-Our-Digital-Identity.pdf
+
+
+	11/2012
+Published by Liberty Global, Inc. with permission of The Boston Consulting Group, Inc.
+	USA
+	7
+	BYOD nationwide
+	Gartner predicts by 2017, half of employers will require employees to supply their own device for work purposes. Enterprises that offer only corporate-liable programs will soon be the exception.
+As enterprise BYOD- programs continue to become more commonplace, 38% of companies expect to stop providing devices to workers by 2016, according to a global survey of CIOs by Gartner, Inc.'s Executive Programs.
+
+
+	The benefits of BYOD include creating new mobile workforce opportunities, increasing employee satisfaction, and reducing or avoiding costs. Companies in the US are twice as likely to allow BYOD as those in Europe, where BYOD has the lowest adoption of all the regions. In contrast, employees in India, China and Brazil are most likely to be using a personal device, typically a standard mobile phone, at work. 
+BYOD does increase risks and changes expectations for CIOs. Unsurprisingly, security is the top concern for BYOD. The risk of data leakage on mobile platforms is particularly acute. 
+	http://www.gartner.com/newsroom/id/2466615 
+	05/2013 by Gartner, Inc.
+http://www.gartner.com/technology/home.jsp 
+	USA
+	8
+	Enforcing Identity and Access Management in Cloud and Mobile Environments
+	The growth in threats is due to the rapid adoption of BYOD. The new security risks associated with these trends can undermine online business where IDC estimates that almost $10 trillion in worldwide Internet ecommerce is generated. Enterprise mobility continues to be a persistent trend. Despite an economy still on shaky ground, many enterprises have begun to embrace mobility as a strategic imperative for the future. IDC's latest survey findings support this, with 51.3% of participants planning to spend more on mobility over the next 12 months and 27% planning to keep the level of spending at the same amount. Mobile device adoption will continue to proliferate at higher-than-average compound annual growth rates from 2012 to 2016.
+	Given these trends, securing mobile access from an identity access and management standpoint is a primary concern. The ability to provision and deprovision applications and data on personal devices in an efficient and compliant manner is key. Access control technologies for mobile may also include data loss prevention as well as security information and event management (SIEM). Even biometric
+solutions are becoming available to address these issues. SecureAuth is a solutions provider based in Irvine, California,that offers companies an extensible method of administering corporate identity governance for cloud-based applications, mobile devices, and networks. The company's core product, SecureAuth IdP, provides IT departments with a  simplified way of managing and enforcing access, authentication, approval, and assertion based on  existing user entitlements.
+
+
+	http://www.secureauth.com/wp-content/uploads/2012/12/IDC1416.pdf 
+	11/2012 by International Data Corporation (IDC) 
+www.idc.co; 
+Sponsored by SecureAuth
+http://www.secureauth.com/ 
+ 
+	USA
+	9
+	Mobile Technologies for Responsive Governments and Connected Societies
+	This report highlights the critical potential of mobile technologies for improved public governance; the report also provides an indepth analysis of the prerequisites for mGov, its main benefits and challenges, the value-chain and key stakeholders, and the checklist of concrete actions to sustain policy makers in monitoring an updating their knowledge on mGov.
+	160 Seiten, habe noch nicht alles quergelesen, um die Keynotes benennen zu können, hole mir aber noch einige Projektbeispiele heraus.
+	http://www.oecd-ilibrary.org/governance/m-government-mobile-technologies-for-responsive-governments-and-connected-societies_9789264118706-en 
+	2011, OECD
+	
+
+	10
+	ISPRAT-White Paper zu mGov: “Mobiles Regieren und verwalten in einer modernen Welt”
+	Mobile Endgeräte, Smartphones oder Tablets, haben in den letzten Jahren eine „kleine“ Revolution in der Welt der Informations-, Kommunikations- und Arbeitswelt entfacht. Während Tablets vorwiegend zu Hause eingesetzt werden, ist das Smartphone der Begleiter für unterwegs. Und obwohl das Ende dieser Entwicklung nicht absehbar ist, lassen sich dennoch vier wesentliche Veränderungen feststellen, die auch Einfluss auf das mobile Government haben:
+* die Endgeräte der Benutzer werden immer leistungsfähiger
+* Bedienerfreundlichkeit ist für die Nutzer heute selbstverständlich
+* Arbeit wird zunehmend mobil
+* Kommunikation findet oftmals auf verschiedenen Geräten gleichzeitig statt.
+
+
+	Wenn eine Verwaltung bereit ist, mit modernen Kommunikationsmitteln den Bedürfnissen der Bürger zu entsprechen, erschließt sie sich damit das Potenzial, Prozesse zu vereinfachen, zu verbessern und neue Prozesse attraktiv zu gestalten. Die hohe Verbreitung und Beliebtheit von mobilen Endgeräten stellt schon heute die dafür nötige Infrastruktur bereit und das potenzielle Interesse an mobilen Angeboten ist groß. Und in einer zunehmend mobiler werdenden Welt wollen Nutzer über mobile Endgeräte einfach an verlässliche Informationen kommen und sichergestellt wissen, dass bei wachsender digitaler Interaktion persönliche Daten sicher übertragen, verarbeitet und situativ gespeichert werden.
+Studie enthält: 
+* Erwartungen an mGov
+* Was nutzt der Bürger und was ist seine Erwartungshaltung?
+* Nutzergruppen von mGov
+* Anforderung an eine dedizierte Anforderungen an mGov und die Apps
+* Interessensfelder der Nutzergruppen von mGov-Angeboten
+* Anmerkungen zum Entscheidungsraum im Rahmen einer mGov-Lösung
+* Mobile Endgeräte an der Schnittstelle zum Kunden
+* Neue Prozesse, Change Management
+* Begleitende Sicherheits- und Rechtsfragen des mGov.
+	http://isprat.net/fileadmin/downloads/publikationen/ISPRAT_Whitepaper_Mobile_Government_final_vH.pdf
+ 
+	03/2014  ISPRAT e.V.
+	Germany
+	
+
+	M-Government, Mobile Technologies for Responsive Governments and Connected Societies, OECD publishing
+	Check Punkt 9, da hab ich die Studie bereits
+	
+
+	http://www.keepeek.com/Digital-Asset-Management/oecd/governance/m-government-mobile-technologies-for-responsive-governments-and-connected-societies_9789264118706-en
+	
+
+	
+
+	11
+	Cisco 2014 Annual Security Report 
+	The Cisco 2014 Annual Security Report highlights the most current security concerns, such as shifts in malware, trends in vulnerabilities, and the revival of distributed denial-of-service (DDoS) attacks.
+	
+
+	https://www.cisco.com/web/offer/gist_ty2_asset/Cisco_2014_ASR.pdf 
+	2014, Enterprise Networks & Security, Cisco 
+www.cisco.com 
+	USA
+	12
+	QUESTION 17-3/2: Progress on E-Government activities and identification of areas of E-Government for the benefits of developing countries.
+	The actual contents of ICT revolution are the transformation
+process, appearance of the information society, and the influence on various fields including businesses
+and public services. The appearance of government service delivery to the public and global businesses
+has been totally reshaped by the Internet. National attention on ICT applications in many countries
+reflects the belief in the government and citizens that the core technologies for e-government would be
+powerful forces for efficient administration and convenient service delivery to the public, producing
+competitive advantage in the information society.
+	
+
+	www.itu.int/ITU-D/study_groups 
+	01 / 2014,
+International Telecommunication Union
+www.itu.int 
+	Switzer-
+land
+	13
+	Wie nutzen Kommunen Social Media
+	Die Untersuchung unterscheidet zwischen der Nutzung von Social-Media-Instrumenten innerhalb einer Verwaltung und in der Außenkommunikation. Intern dominieren soziale Netzwerke und Partizipationsinstrumente zur Beschäftigtenbeteiligung. 
+54 % setzen Social-Media-Instrumente für interne und/oder externe Zwecke ein. 46 % gaben an, solche Instrumente nicht zu nutzen. Gründe im Wesentlichen: fehlende Kontrolle über Fremdbeiträge, ungeklärte Rechts- und Sicherheitsfragen sowie fehlender Nutzen.
+42 % wollen ihre Außenkommunikation auf sozialen Netzwerken wie Facebook und 23 % den Einsatz von Partizipationsinstrumenten intensivieren.
+	Fokus: Bürgerkontakt. In der Außenkommunikation (Pressestelle) liegen Content Communities wie Flickr oder Youtube (48 %), Partizipationsinstrumente (38 %) und soziale Netzwerke wie Facebook oder Google+ (27 %) vorn. Auffällig: Die Zielerreichung wird für die externe Kommunikation wesentlich positiver beurteilt als beim internen Einsatz. Die Ergebnisse der Befragung zeigen, dass Social Media in vielen Kommunen angekommen ist. Die Anwendung von Social Media zum Nutzen der kommunalen Kommunikation und Zusammenarbeit wird aber in den nächsten Jahren noch weiter optimiert werden müssen. Dabei gilt es, dann auch Anwendungen in den Fokus zu nehmen, die über Facebook hinausgehen und entsprechend der kommunalen Zielsetzungen ausgewählt werden.
+	http://www.egovernment-computing.de/kommunikation/articles/438571
+
+
+http://www.cassini.de/fileadmin/user_upload/news/Cassini_Studie_Social_Media_Kommunen_2014.pdf
+
+
+	03 / 2014,
+Cassini Consulting, 
+http://
+www.cassini.de / 
+Institut für Informationsmanagement Bremen GmbH,http://
+www.ifib.de / 
+Kommunale Gemeins
+chaftsstelle
+für Verwaltungsmanagement, http://www.kgst.de 
+
+
+	Germany
+	14
+	Mobile Government Guidelines
+	This document serves as a set of guidelines for government entities to prepare themselves in transforming eGov to mGov. It will assist the entities in meeting some of the challenges of exploiting the benefits that may be gained from mGov. It contains a set of guidelines for making entities ‘m-ready’ to the requirements of developing and implementing advanced mobile ICT-based applications and services. It covers the technical and usability issues, how they should be handled and what security measures should be taken into account. The focus is more on mGov services development to be provided by the government entities in the UAE via mobile technologies and relevant devices including but not limited to smartphones.
+	
+
+	http://www.government.ae/documents/10138/98433/Guidelines_En_mGov_final.pdf/7ca28ce2-432e-4eb4-b62c-7ef924979739?version=1.0 
+	08 / 2013,
+Telecommunications Regulatory Authority (TRA),
+www.tra.gov.ae 
+	UAE
+	15
+	Audit Report: NASA’s
+Management of its Smartphones, Tablets, and Other
+Mobile Devices
+	NASA is one of the few agencies that allows employees to access agency email and other systems from personal mobile devices. Mobile electronic devices, including smartphones and tablets, are key components of NASA’s IT strategy to provide its employees and contractors flexibility in accessing Agency networks from anywhere at any time. In this audit we assessed whether NASA had implemented controls to manage (1) the costs associated with Agency-issued mobile devices and (2) the security risks associated with personal smartphones and tablets connecting to NASA networks.
+	Weaknesses in NASA’s mobile device management practices mean the Agency is unable to ensure that it is not paying for unused devices. Specifically, NASA lacks a complete and accurate inventory of Agency-issued mobile devices, which makes it difficult for the Agency to determine whether contractor charges are accurate. In addition, although NASA has taken some steps to mitigate security risks associated with personally owned mobile devices, more work remains.In response to the report, NASA Chief Information Officer Larry Sweet said his office is implementing an enterprise mobile device management capability to centrally manage personal and government-furnished devices, as well as those purchased from the agency’s IT contract with HP Enterprise Services.
+	http://oig.nasa.gov/audits/reports/FY14/IG-14-015.pdf
+
+
+http://www.federaltimes.com/article/20140306/CYBER/303060016 
+
+
+	02 / 2014
+
+
+NASA Office of Inspector General
+
+
+HP
+	USA
+	16
+	Best Practices of Use
+of Information and
+Communication
+Technologies in the
+Public & Private Sector
+	Presentation of the current
+situation on European and
+International level. The present
+situation analysis of the European environment is combined and
+accompanied with the recording and presentation of a
+large number of G2B best practices
+	
+
+	http://www.observatory.gr/files/meletes/Dlv3_BestPractices_en.pdf 
+	05 / 2007
+	Greek
+	17
+	 
+E-Government for mobile Societies
+	The document first provides a general introduction to the topic and presents commonly used terms and notations. The study also presents enablers and challenges of m-Government and introduces critical success factors. To get a comprehensive overview of the current global situation, several m-Government projects from different countries and regions are briefly sketched. Furthermore, relevant studies, articles, and scientific publications on m-Government are presented and discussed.
+	Viele G2C-Projekte beschrieben, viel Sms-based.
+	http://www.a-sit.at/pdfs/Technologiebeobachtung/mobile_government_1.0.pdf
+
+
+	2011, Zentrum für sichere Informationstechnologie,
+http://www.a-sit.at/ 
+	Austria
+	18
+	Mobile Technologies and Empowerment
+	Enhancing human development through participation and innovation. Mobile technologies are opening new channels of communication between people and governments, potentially offering greater access to public information and basic services to all. No other technology has been in the hands of so many people in so many countries in such a short period of time (World Bank 2008). In fact, globally, more people now have access to a mobile device than to justice or legal services (UNDP 2008).Mobiles have relatively low physical infrastructure requirements and can reach remote areas in a more cost-effective fashion than other ICTs such as the Internet or fixed phone lines. In some places, mobile devices are simply the only option available. And mobile phones require only basic literacy, making the barriers to entry much lower than with other modern ICTs.
+	As a result, mobile technologies are starting to have an indelible impact on human development, enhancing democratic governance and other development areas such as health, education, agriculture, employment, crisis prevention and the environment. For instance, studies have suggested that increased mobile ownership is linked to higher economic growth (Vodafone 2005; Vodafone and ICRIER 2009). It is also likely to have twice as large an impact on economic growth in developing countries as in developed ones because the starting point of infrastructure in poorer countries is so much lower in terms of landlines and broadband access.Within governance, mobile technologies can offer new means for empowering citizens and stakeholders by opening and enhancing democratic processes and mechanisms. M-governance initiatives that expand access to information and communications channels are creating new venues for people’s participation and giving new voice to those who have historically been marginalized.
+	http://www.undpegov.org/mgov-primer.html
+
+
+http://www.undpegov.org/sites/undpegov.org/files/undp_mobile_technology_primer.pdf 
+	2012, United Nations Development Programme
+	USA
+	19
+	E-Gov Dienste in Europa. Ein Vergleich von 7 Ländern
+	Was kann der Public Sector in Deutschland von den Vorreitern Estland und Österreich lernen? "Der Aufbau einer flexiblen digitalen Infrastruktur für E-Gov, das klare Bekenntnis zu Transparenz und Datenkontrolle sowie die Konzentration auf größtmögliche Zeitersparnis und Nutzerfreundlichkeit für die Bürger sind Prinzipien, die wesentlich zum Erfolg von E-Gov-Angeboten in Deutschland beitragen können. Insbesondere die Erfahrungen aus Estland zeigen, wie wichtig mobile Zugänge für erfolgreiche E-Government-Dienste geworden sind." 
+
+
+	Die erhaltenen Resultate, die in dieser Untersuchung aufbereitet und diskutiert wurden, zeigen, dass es mitunter signifikante Unterschiede in der Verfügbarkeit von bestimmten E-Government-Diensten in Europa gibt. Während Länder wie Estland oder Österreich relativ weit entwickelt scheinen, konnte für andere Länder wie Deutschland oder die Niederlande durchaus Verbesserungspotential identifiziert werden. 
+	http://www.vodafone-institut.de/uploads/media/1402_Analyse_E-Government-Dienste-in-Europa-ein-Vergleich_Vodafone-Institut-fuer-Gesellschaft-und-Kommunikation_02.pdf
+
+
+http://www.kommune21.de/meldung_18451_r 
+	Vodafone-Institut für Societies and Communication,
+http://www.vodafone-institut.de/ 
+
+
+Zentrum für sichere Informationstechnologie,
+http://www.a-sit.at/ 
+
+
+ 
+
+
+
+
+	GER, Austria
+	
+
+
+
+B. Target group: Government-to-Government (G2G) / Government-to-employees (G2E)
+
+
+No.
+	Names / Titles
+	Description
+	Benefits for target group
+	Source / Link
+	Parties involved / Year
+	Interoperability / platform
+	Country
+	1
+	Mobile Fingerprint
+	South Australia Police has implemented a mobile fingerprint scanning solution that allows officers to verify a person’s identity on the go. The solution, deployed by NEC, gives officers access to the National Police Reference System (NPRS) of CrimTrac, the national information-sharing service for Australian’s police, law enforcement and national security agencies
+	Instead of verifying a person's identity with fingerprint scanning technology at the station, SAPOL officers equipped with NEC’s mobile solution can now independently do this when the person is present at the scene of a crime or during other questioning, such as missing persons investigations. The technology will reduce police officers’ vulnerability to inaccurate identity claims. Name, verhicle and registration checks possible
+	http://au.nec.com/en_AU/press/201402/nec-australia-equips-sa-police-with-android-mobile-fingerprint-scanners.html
+
+
+Same Northern Territory
+
+
+http://www.abc.net.au/news/2014-02-06/nt-police-issue-ipads-to-officers/5243050 
+	Deployed by NEC
+http://au.nec.com/en_AU/index.html 
+	Android / iOS
+	Australia
+	2
+	Mobile Notices
+	Australian Police Testing iPad minis for Issuing Tickets for traffic violations. With the cellular iPad minis, the police are able to securely look up the records of anyone involved in a traffic stop, issue tickets that can be sent via email or MMS and even tell a driver on the spot how points they’ve lost on their license
+	
+
+	http://www.technobuffalo.com/2013/09/17/australian-police-testing-ipad-minis-for-issuing-tickets/ 
+	http://www.grindstonesaustralia.com/ 
+	iOS
+	Australia
+	3
+	London digital policing
+	A mobility project will put tablet-type devices in the hands of over 15,000 frontline officers, providing access to information wherever they are. London’s Metropolitan Police Service (MPS) has launched its vision of how it will use technology to transform crime fighting in the capital city and become “the first truly digital police force”
+	
+
+	http://content.met.police.uk/News/Total-Technology-strategy-201417/1400022464491/1257246745756?scope_id=1257246764279 
+	
+
+	
+
+	UK
+	4
+	SitzungsApp iRICH
+	Digitale Gremienarbeit- Beispiel Städte:  Altena, Halver und Olpe.  Einsatz eines elektronischen Sitzungsmanagements, um die bis dahin teils sehr umständlichen internen Sitzungsvor- und -nachbereitungen zu optimieren. Ein Jahr später führte die Stadt den Sitzungsdienst, das Gremieninformationssystem, das Abrechnungsmodul sowie die Outlook-Schnittstelle ein. Ratsmitglieder nutzen heute die Möglichkeit, relevante Sitzungsunterlagen digital im System abzurufen. Auf diese Weise entsteht eine erhebliche Reduzierung der Druck- und Versandkosten. Zur weiteren Optimierung der Verfahrensabläufe setzt die Stadt den Sternberg-Workflow ein, der Zuständigkeiten klar regelt und Laufwege verkürzt 
+	Die Schriftführer der einzelnen Ausschüsse sehen auf einen Blick, welche Vorlagen sich noch im Workflow oder gegebenenfalls sogar im Entwurfsstadium beim Sachbearbeiter befinden. Durch die Nutzung des Sitzungsmanagements ist die Effizienz der Geschäftsprozesse, bei gleichzeitiger Reduzierung des zeitlichen Aufwands, enorm gestiegen. Der neue Komfort bietet z.B. den Ratsmitgliedern mithilfe mobiler Endgeräte jederzeit Zugang zu ihren Unterlagen. Notizen und Annotationen werden nun nicht mehr zu Papier gebracht, sondern unmittelbar im PDF-Dokument vorgenommen
+	https://www.sitzungsdienst.net/produkte-von-sternberg/mobile-gremienarbeit.html 
+	Firma Sternberg Software-Technik GmbH, Bielefeld.
+	iOS / Windows
+	Germany
+	5
+	MyEVOC Anaheim
+	EVOC: Emergency Virtual Operations Center app to make essential functions—such as police and fire incident reports, vehicle tracking, and various advisories—available to city employees through mobile devices
+	MyEVOC takes real-time integrated  emergency response to the field: increase coordination, promote efficiency and do more with less. This allows city employees with an EVOC account to see an integrated view of city data in real-time from anywhere and at anytime. Fieldworkers and those that travel will be able to stay up to date on information, receive alerts, and the end result will be better decisions made much quicker
+	http://h20195.www2.hp.com/v2/GetPDF.aspx/4AA4-4151ENW.pdf 
+	HP
+	
+
+	USA
+	6
+	ETS2 Travel Management
+	ETS2 (cloud based) helps the gov to further consolidate online travel booking services and expense management platforms and channels, driving additional cost savings and efficiencies while delivering a transparent service for improved accountability, increase transparency and reduced waste. Background: The U.S. Fed Gov is the largest consumer of travel services in the world, with an estimated $15 billion in annual spend. The first generation of ETS unified over 80 Executive Branch agencies to a common, secure, web-based, automated service. It consolidated over 250 disparate, non-web-based and paper-driven systems; leveraged the government’s purchasing power; increased online adoption from 5 to 68%; saving millions annually and reducing reimbursement cycle time.
+	 ETS2 serves as the gateway to optimize the government’s scale and full market leverage to lower travel costs.
+-Improved usability and optimized online travel planning;
+-Increased navigation and ease-of-use, enabling informed cost and sustainability decisions at point-of-sale; and
+-Strengthened operational environment, improving management by adopting commercial best practices in software development, data transparency and improved security controls.
+	http://www.gsa.gov/portal/content/104378 
+	Concur Technologies; http://www.gsa.gov/portal/content/136399   
+	
+
+	USA
+	7
+	ANAO mobile Workforce
+	The Australien National Audit Office (ANAO), which provides audit and assurance services to 300 Australian government organisations, has extended its IT managed services contract to better support its mobile workforce. To address the changing technology and operational needs of a mobile workforce, ANAO has also rolled out a mobility support service for iPhone, Android and Blackberry devices providing authorised personnel with secure remote access to protected ANAO data.
+The contract provides ANAO with desktop and infrastructure support; local area network and security administration; desktop asset management; and services such as change, problem and incident management. 
+	Enabled the ANAO to continually reduce costs in today’s tough economy and deliver our audit services more efficiently to some 300 government bodies. Helped to create a more efficient organisation and increased end-user satisfaction
+	http://www.futuregov.asia/articles/2014/mar/18/it-managed-services-enable-mobile-workforce-austra/ 
+	The Australian National Audit Office (ANAO) contract with Unisys (http://www.unisys.com/unisys/) 
+	for iPhone, Android and Blackberry devices
+	Australia
+	8
+	California Department of Justice (DOJ) goes mobile with citrix
+	Thousands of DOJ personnel and their Law Enforcement Agency Partners (LEAPs) now use Citrix XenMobile to secure access to web-based DOJ applications on government-issued smartphones and tablets.Trial lawyers use Apple iPads to access complete case matter and other data, eliminating the need to carry around and search through large paper files. Special agents and peace officers in the field can access criminal records on any authorized mobile device
+	* Provides faster anytime, anywhere, any device access to information in the field at a lower cost
+* Maintains security and compliance for mobile data
+* Improves morale and quality of life for law enforcement personnel
+
+
+	http://www.citrix.com/customers/california-department-of-justice-en.html?utm_source=xm&utm_medium=social&utm_campaign=emm 
+	Citrix XenMobile
+	iOS / Windows
+
+
+	USA
+	9
+	Mobese (Mobile Electronic System Integration)
+	One of the major applications of m-Government in Turkey is in the law enforcement area, a project called Mobese. The police stations and related fixed units access the system via VPN. The mobile units are equipped with Tablet PCs with GPS and GPRS internet access.Mobile units can do online queries regarding identification, record history etc. These queries increase the effectiveness and responsiveness of the mobile units. The system is being used by police and traffic police officers in various areas of Turkey. The central command unit has access to the location specifics of the mobile units. In case of an incident, the system effectively assigns the nearest unit to the incident. 
+	The Mobese project is mainly an infrastructure which aims to maximize the efficiency and effectiveness of the law enforcement units. The infrastructure is designed for both wired and mobile access. The System enables effective communication among the mobile units and the central command unit. Since data transactions regarding law enforcement take place online, the central unit can do effective planning, simulation and management with the online data.
+	http://www.mobese.com.tr/?iletisim-irtibat&changelang=EN 
+http://unpan1.un.org/intradoc/groups/public/documents/unpan/unpan037453.pdf 
+	
+
+	
+
+	Turkey
+	10
+	TBS (Traffic Information System)
+	TBS connects the mobile traffic enforcement units equipped with tablet-PCs to a central information system. The mobile units can conduct real time queries regarding drivers’ license information, vehicle registration, citizen identification and drivers’ point status. Since the system includes GPS, the mobile units can be mapped at the command center online. Therefore center unit can assign mobile units to incidents more effectively. Accident locations and accurate accident information are transferred to the system online, increasing record accuracy and the liability of the statistics.
+	TBS aims to increase the effectiveness and the efficiency of communication between the mobile units and the command center. The command center and mobile users can communicate via real time messaging system, using custom or pre-designated messages. Online queries decrease the waiting time significantly increasing the effectiveness and the efficiency of the mobile units. The traffic penalties are conducted in an online manner, increasing efficiency, and transparency.
+	http://www.academia.edu/1388530/A_GENERAL_OVERVIEW_OF_MOBILE_GOVERNMENT_IN_TURKISH_METROPOLITAN_MUNICIPALITIES 
+	
+
+	
+
+	Turkey
+	11
+	Earthquake Monitoring and Information System
+	Kandilli Observatory (İstanbul) has initiated a project which links the 100 seismographs placed in Istanbul to the institution via GSM. In case of an earthquake, the seismographs send information to the observatory via SMS. The collected and analyzed information is then disseminated to the involved governmental organizations (such as civil defense, emergency units, municipalities, local governor, military and etc.) via GPRS. 
+	The system is expected to be of extreme use in case of an earthquake, where officials and governmental institutions that are mobilized in the disaster area need real-time and accurate data.
+	http://www.iitk.ac.in/nicee/wcee/article/13_272.pdf 
+	
+
+	
+
+	Turkey
+	12
+	Strafzettel per iPhone
+via App: WiNOWiG mobil
+	Frauen und Männer, die das Ahnden von Parkzeitüberschreitungen, Falschparkern oder anderen Ordnungswidrigkeiten zuständig sind, werden mit einem modernen iPhone ausgestattet.
+Das neue System heißt „Winowig“ – weil es auf dem Windows-PC-Programm basiert und für Ordnungswidrigkeiten umgeschrieben wurde.
+	Mit der neuen Software werden künftig keine Strafzettel mehr ausgedruckt, aber Beweisfotos gemacht. Die gehen dann sofort, unmittelbar, wenn der Außendienstmitarbeiter tätig geworden ist, in die Datenbank der Stadt. Und die Kollegen, bei denen eventuell Bürger vorsprechen, haben sofort und unmittelbar Zugriff darauf.
+Chef des Ordnungsamtes  Aachen: „Die Abwicklung der Knöllchen via iPhone spart durch die neue Technologie künftig pro Jahr bis zu 80.000 Euro”.
+	http://www.kommune21.de/meldung_12223_Kn%C3%B6llchen+via+iPhone.html 
+
+
+http://www.come-on.de/lokales/altena/iphone-statt-keule-beweisfotos-gibts-auch-1061004.html
+
+
+http://www.aachener-zeitung.de/lokales/eifel/fuer-jede-politesse-gibts-ein-neues-iphone-1.382430#plx531632095 
+
+
+http://www.rp-online.de/nrw/staedte/moenchengladbach/effektiver-und-stressfreier-knoellchen-per-smartphone-aid-1.3134478  
+
+
+Video: http://www.herein.tv/video/Kn%C3%B6llchen-per-Smartphone/41cfa14ea34fd7006cfc74fdb0162a88 
+
+
+	Schelhorn OWiG Software GmbH
+
+
+http://www.owig.de/ 
+	iOS / Android
+	Deutschland, z.B. in:
+
+
+Altena / Aachen / Ingolstadt / Bamber / Mönchengladbach
+	13
+	Wohnungsübergabe (Übertragbarkeit auf Verwaltungsprozesse gegeben)
+	Die Zeiten sind vorbei, dass die Hausverwaltung bei einer Wohnungsübergabe umständlich mit Fotoapparat, Klemmbrett und Visitenkarten hantierte – und am Ende fehlt doch eine entscheidende Unterschrift. Die erste App um Wohnungsübergaben sicher, papier- und lückenlos mit dem iPhone zu organisieren und zu archivieren.
+
+
+	* Nie mehr etwas vergessen – die App führt Schritt für Schritt durch die notwendigen Punkte, die zu beachten sind
+* Rechtlich geprüft vom Haufe Experten-Team
+* Verknüpfung mit Kontakten
+* Mängel werden mit der Kamera aufgenommen und im Übergabeprotokoll gespeichert
+* Übersichtliche Eingabefelder
+* Unterschrift direkt auf dem iPhone
+* PDF-Export des Protokolls
+	https://itunes.apple.com/de/app/wohnungsubergabe-protokoll/id401929531?mt=8
+
+
+	Haufe-Lexware GmbH Co KG 
+http://www.haufe-lexware.com/ 
+	iOS 5.0
+	Germany
+	14
+	Baumkataster - Beispiel: Wiener Wohnen
+	Die Unternehmung Stadt Wien − Wiener Wohnen verwaltet, saniert und bewirtschaftet die städtischen Wohnhausanlagen Wiens. Dazu gehören rund 220.000 Gemeindewohnungen in etwa 2.000 Wohnhausanlagen in ganz Wien. Wiener Wohnen ist damit die mit Abstand größte ist Hausverwaltung Europas.
+
+
+Laut Gesetz haftet der Besitzer für alle Schäden, die ein morscher oder kranker Baum verursacht, sofern nicht alle zur Abwendung der Gefahr erforderlichen Maßnahmen getroffen wurden. Somit sind Bäume regelmäßig zu kontrollieren.
+
+
+Die Vorschrift dient der Verkehrssicherungspﬂicht und so muss in Österreich der Baumbestand auf öffentlichem Grund kontrolliert werden. Da die Wohnhausanlagen von Wiener Wohnen − wenn auch einem eingeschränkten Benutzerkreis − de facto jedem zur Verfügung stehen, ist die Sicherheit wesentlich.
+
+
+Der Baumkataster ist ein IT-System, das mit einem Geoinformationssystem gekoppelt ist. Somit ist jeder mit einer Nummer gekennzeichnete Baum elektronisch erfasst. Die Identiﬁzierung der Bäume erfolgt in diesem Fall mit Hilfe von RFID-Transpondern. In regelmäßigen Abständen sind die einzelnen Bäume im Hinblick auf Baumkrone, Baumstamm und Äste zu kontrollieren. Die aktuellen Informationen werden dann vor Ort elektronisch erfasst, unmittelbar danach per mobiles Internet an eine zentrale Datenbank bei Wiener Wohnen übermittelt und dient als Basis für weitere baumspeziﬁsche Maßnahmen sowie Auswertungen.
+	* Kosteneinsparung und erhöhte Sicherheit für die Menschen
+* Effizientes Kontrollmanagement für Pflegemaßnahmen und Analysen
+* Elektronisches Erfassen aller markierter Bäume
+	http://www.csc.com/de/success_stories/98321-government_wiener_wohnen_mobile_loesung
+
+
+http://assets1.csc.com/de/downloads/Premium_Fallstudie_Wiener_Wohnen_2013_2_tags.pdf
+
+
+	www.csc.com  
+	
+
+	Austria
+	15
+	OntheGo
+Secure Government Mobile Payment App
+	With the OtG Android app: take mobile payments outside of Wi-Fi or cellular coverage. Created for government, OntheGo is your PCI-compliant solution for taking payments in the field, at conferences and events, or whenever you need to collect funds outside the office.
+
+
+	* Convenient pre-fillable comment field
+* Optional receipts are sent via email
+* Free—no fiscal impact to your agency/county/city.
+* No merchant fees or monthly minimums.
+
+
+
+
+	http://onthego.idaho.gov/ 
+
+
+https://play.google.com/store/apps/details?id=com.egov.otg&hl=en 
+	Access Idaho 
+http://www.egov.com/Partners/Pages/Idaho.aspx 
+	Requires Android
+2.2 and up
+
+
+	USA
+	16
+	iCOPS
+	iCOPS is an innovative mobility application using leading-edge mobile technology and secured by Good Dynamics to provide vital information to police officers any time, anywhere.
+
+
+
+
+ 
+	* consistent and uniform user experience across multiple platforms and device types
+* State of the art Middleware layer to allow seamless and secure access to content including legacy system based from common content infrastructure
+* Social media analytics , alerts and reporting
+* Geo-location awareness. GPS Tracking and Tagging functionality to extend the system capa-bility and provide location service
+* WiFi, GPS and 3/4G integration. Geospatial mapping. Wireless mesh networks
+* Multilanguage aware. Video streaming capabilities including CCTV camera live streaming into the iCOPS interface
+* Can integrates with existing police systems such as INTEGRAPH CAD
+	
+
+	Delv, Good, Oracle, Samsung, Aruba, Apple Consultant Network
+	Device independent platform, compatible with Apple iOS, Android, Windows 8,etc.
+	Australia
+	17
+	DOL-Timesheet
+	This is a timesheet to record the hours that you work and calculate the amount you may be owed by your employer. It also includes overtime pay calculations at a rate of one and one-half times (1.5) the regular rate of pay for all hours you work over 40 in a workweek
+	
+
+	http://apps.usa.gov/dol-timesheet.shtml 
+	Department of Labor (DOL), 
+www.dol.gov/‎ 
+	iOS
+	USA
+	18
+	PTSD Coach
+	PTSD Coach was designed for Veterans and military Service Members who have, or may have, Posttraumatic Stress Disorder (PTSD). Tools range from relaxation skills and positive self-talk to anger management and other common self-help strategies. Users can customize tools based on their preferences and can integrate their own contacts, photos, and music.
+	This app provides users with education about PTSD, information about professional care, a self-assessment for PTSD, opportunities to find support, and tools that can help users manage the stresses of daily life with PTSD.
+	http://apps.usa.gov/ptsd-coach.shtml 
+	Department of Veterans Affairs (VA), 
+www.va.gov/ 
+
+
+TSD Coach was created by VA’s National Center for PTSD and DoD’s National Center for Telehealth & Technology.
+	iOS, Android
+	USA
+	19
+	MOBIKO
+	Mobile Kooperation im Bauwesen durch drahtlose Kommunikationstechniken (B2B).Die Bauindustrie erfordert Mobilität in einem höheren Maße als andere Wirtschaftsbereiche. MOBIKO zielt auf die Entwicklung und Erprobung mobiler Multimediadienste in Modellanwendungen (z.B. Informationsmanagement, Ferndiagnose und Fernwartung von Baumaschinen, Logistik-Dienste), um damit innovative Nutzungsmöglichkeiten moderner drahtloser Mobilkommunikationssysteme im Bereich der Bauindustrie aufzuzeigen, zu entwickeln und zu erproben und in Verbindung damit breitenwirksam Nachahmungseffekte auszulösen.
+	Unter anderem soll erreicht werden, dass alle am Bauprozess beteiligten Organisationen, Institutionen und Personen auch mit mobilen Endgeräten gemeinsam an einem Datenbestand arbeiten und rechtsverbindliche Transaktionen durchführen können. Die Rechtsverbindlichkeit wird durch Nutzung einer entsprechenden Sicherheitsinfrastruktur (einschl. eSignatur) sichergestellt.
+	http://www.baulinks.de/webplugin/2004/0363.php4 
+	Seit 2002 gefördert durch Bundesministerium für Wirtschaft und Technologie (BMWi)
+
+
+Projektkonsortium: BIBA Bremen, T-Systems Nova GmbH Bremen, conject AG München, Nemetschek AG München
+
+
+	
+
+	GER
+	20
+	ASYS
+	Für eine effektive Überwachung der Abfallentsorgung sind aktuelle, umfassende und verlässliche Informationen zum Entsorgungsgeschehen erforderlich. Darüber hinaus sind diese Informationen so umfangreich, dass die Bereitstellung und Auswertung der erforderlichen Daten den Einsatz moderner Informationstechnologien erfordert. Das Abfallüberwachungssystem ASYS bietet dem Anwender aus den Abfallbehörden die Möglichkeit, alle zur Überwachung der Abfallentsorgung notwendigen Daten effizient zu verwalten. Der inhaltliche Rahmen hierzu ergibt sich aus dem Kreislaufwirtschaftsgesetz und dem zugehörigen untergesetzlichen Regelwerk sowie den für den Bereich Abfall maßgeblichen europäischen Richtlinien sowie Verordnungen.
+Darüber hinaus können auch die Landkreise und kreisfreien Städte auf die ASYS-Daten lesend zugreifen.
+	ASYS dient des Weiteren in Brandenburg als Datenbasis für den LUIS-Dienst, der die Öffentlichkeit im Internet mit Informationen zu Entsorgungsanlagen und zugelassenen Beförderern informiert.
+Durch den Anschluss der ASYS-Datenbank an die Web-Applikation IPA-KON ist es dem BAG (Bundesamt für Güterverkehr) möglich, mobil auf die ASYS-Daten zuzugreifen.
+Möglichkeiten im System:
+* Stammdatenpflege zu Entsorgern, Beförderern und Erzeugern
+* die Vorab- und Verbleibskontrolle der Abfallströme
+* Bearbeitung von Anzeigen und Erlaubnissen zu Sammlern, Beförderern, Händlern und Maklern
+* die Entsorgungsfachbetriebszertifikate
+* die grenzüberschreitende Abfallverbringung
+* funktional bietet ASYS die Möglichkeit, Daten automatisiert auf elektronischem Wege zwischen den ASYS-einsetzenden Behörden und mit den beteiligten Betrieben auszutauschen.
+	http://www.portalu.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=C0EEBC13-E53F-4A35-A405-9ABC4E92ED31&plugid=/kug-group:kug-iplug-udk-db_bb 
+	Länderarbeitsgruppe GADSYS
+http://www.asysnet.de/index.php?sp=de&id=449 
+	
+
+	GER
+	21
+	PolMobil
+	Im Rahmen eines Pilotprojektes stattet die Telekom-Tochter T-Systems die Polizei in Bremen mit mobiler Informationstechnologie aus. Die für den Polizeidienst entwickelten GPRS-Systeme sollen künftig etwa Fahndungsabfragen vereinfachen. Bei "PolMobil" soll es sich um eine webbasierte Lösung handeln, bei der die mobil genutzten Notebooks oder PDAs Informationen über GPRS und künftig UMTS austauschen. Die Geräte erhalten eine eigene IP-Nummer und sind damit Teil des Polizei-Intranets, so dass die Beamten Zugriff auf die polizeilichen Auskunftssysteme der Länder und des Bundes haben.
+	Ziel des Projekts ist die Entwicklung und Erprobung von mobilen DVSystemen für die Unterstützung der polizeilichen Aufgabenwahrnehmung, um eine Prozessoptimierung der Polizeiarbeit zu erreichen. Ein besonderer Vorteil der Lösung liegt
+darin, dass die Kommunikationskosten nicht von der Verbindungsdauer
+abhängen. Kosten entstehen nur dann, wenn die mobilen Geräte
+tatsächlich Daten empfangen oder versenden. Deshalb können die
+Polizisten permanent online bleiben. Sie nutzen quasi eine mobile
+Standleitung.
+	http://www.presseportal.de/pm/31564/398358/t-systems-und-polizei-bremen-starten-pilotprojekt-mobile-fahndungskraft-fuer-einsatzfahrzeuge 
+
+
+http://www.deutschlandfunk.de/streifenwagen-der-zukunft.676.de.html?dram:article_id=20076 
+	2002, T-Systems
+www.t-systems.de 
+	
+
+	GER
+	22
+	Polis.NET
+	1.   Bei „Polis.NET“ handelt es sich um das ein Fahndungssystem der rheinland-pfälzischen Polizei. Das System basiert auf Microsofts .NET-Technologie und soll sich durch eine komfortable Benutzerführung, die leichte Bedienbarkeit und die Möglichkeit, erfasste Daten übernehmen zu können, auszeichnen. Neben dem Internet können mit dem System unter anderem auch Fahndungsdaten über mobile Endgeräte abgefragt werden.
+	Mit dem neuen System werden sich Fahndungsdaten auch über mobile Endgeräte abfragen lassen. Nachdem ein Firmenkonsortium unter der Leitung von Microsoft rund 10 Millionen Datensätze aus dem alten System importiert hat, können Fahndungsinformationen nun auch über das Internet abgerufen werden.
+Bereits seit Dezember 2002 wurde der Datenaustausch mit dem Bundeskriminalamt getestet. Die Tests sind nach Angaben der Polizei Rheinland-Pfalz erfolgreich absolviert.
+	http://www.kommune21.de/meldung_2351_Verbrecher+gehen+ins+Microsoft+.NET.pdf
+
+
+http://www.zdnet.de/2134712/microsofts-net-bei-der-polizei-rheinland-pfalz/
+
+
+	2003, Microsoft Deutschland GmbH
+	
+
+	GER
+	23
+	Project Nomad
+	The North London Strategic Alliance Street Wardens Pilot Project is a mobile government application aimed at streamlining the operations of street wardens, who fill in information regarding incidents “at the scene” using a mobile device like a smartphone or Pocket PC, which have GPRS and Bluetooth connectivity as well as mapping capabilities.
+	The project allows wardens to electronically capture information and transfer it wirelessly to a hosted managed server. The data base information provides reporting facilities that are accessed through the internet using a secure passwort, via GPS devices that have Bluetooth connectivity.
+	http://publicsectornomads.com/wp-content/uploads/2012/06/NLSAStreetWardensCS.pdf 
+	2004 partnership with
+O2, T-Mobile, Orange, Handheld PCs, Genesis, Octavia, Metropolitan Police
+	
+
+	UK
+	24
+	Compass CoPilot
+	Compass® CoPilot empowers social workers with mobile document management and timesaving features for work in the field. 
+	Compass CoPilot Saves Social Workers One Hour a Day
+* Access all case and client information, forms, documents, tasks, etc.
+* Record interviews with clients and save them to the case file
+* Dictate case notes and transcribe interviews
+* Capture high-resolution, color images of documents, clients, and living conditions
+* Secure client information using Compass® CoPilot for iPad’s password protection and industry-standard encryption.
+
+
+	http://www.teamnorthwoods.com/Portals/0/Documents/Fairfield-County-Compass-CoPilot-Time-Study.pdf
+
+
+https://itunes.apple.com/de/app/compass-copilot/id688485219?mt=8
+
+
+	Northwoods Consulting Partners, Inc.,
+http://www.teamnorthwoods.com/ 
+	iOS
+	IRE
+	25
+	Police@SG 
+	Police@SG is the latest initiative from the Singapore Police Force, which gives members of public access to useful information on the go. With Police@SG, everyone will have the following services at their fingertips:
+* View the crime statistics around your neigbourhood
+* Read the latest crime news, police appeals for information and missing persons
+* Locate the nearest police station from your current location
+* Share content on Facebook and Twitter
+* View videos from the Singapore Police Force
+- L
+	
+
+	http://www.futuregov.asia/articles/2014/mar/27/singapore-police-launch-geo-tagged-emergency-notif/
+
+
+https://play.google.com/store/apps/details?id=org.spf.mobi.ui 
+	Singapore Police Force, 
+http://www.spf.gov.sg/ 
+	Android 
+	Singapore
+	26
+	Technology Insights App
+	Technology Insights from CDW provides users with an immersive experience, offering access to exclusive content to assist in researching,planning, purchasing and executing IT projects.CDW offers this app as a portal into a world of technology experience and knowledge, serving up feature-rich content in various formats, from architect-hosted webinars and videos to detailed case studies, from white papers by leading technologists to how-to solutions guides and infographics. This is the app to go to for IT answers. 
+	Agencies that have implemented mobile computing know that it’s no small undertaking when it’s done properly. To support them, CDW’s Technology Insights app now features the Total Mobility Management interactive guide. Whether your agency is just starting out, or your IT staff is expert in the deployment of mobile computing, Total Mobility Management offers guidance, case studies, videos, white papers, multimedia links and more, all tailored to your needs.
+	http://www.fedtechmagazine.com/article/2014/04/agency-mobility-made-easy
+
+
+http://solutions.cdw.com/tech-insights-mobility 
+	CDW,
+http://www.cdw.com/ 
+
+
+http://www.cdw.com/content/solutions/mobility/total-mobility-management.aspx?cm_re=Trending+Now-_-Mobility-_-Click
+ 
+	iOS, Android 
+	USA
+	27
+	FirstToSee Emergency Tool / App
+	Social media now plays a critical role in how the public communicates during an emergency. The FirstToSee Emergency Support System leverages existing social media technologies to greatly improve emergency preparedness and management. The FirstToSee mobile app provides the public with new tools for communicating directly with responders. Often it is the public who are the first to sense danger or help survivors immediately following a disaster. The app allows users to send emergency reports and photos from their smartphones or tablets.These reports are available in the FirstToSee portal in near-real time.Furthermore, the app has a “trusted user” function that will highlight reports submitted by public employees or vetted volunteers.
+	In summary, the FirstToSee system helps federal, state and local government create a clearer operational picture and provide a more targeted response during a crisis.
+
+
+	http://www.govtech.com/internet/Using-Social-Media-to-Aid-in-the-Oso-Mudslide-.html 
+
+
+http://first2see.org/wp-content/uploads/2013/05/FirstToSee-System-White-Paper-Final-06212013.pdf
+
+
+
+
+	http://first2see.org/
+
+
+	iOS, Android
+	USA
+	C. Target group: Government-to-Citizen (G2C)
+
+
+No.
+	Names / Title
+	Desription
+	Benefits for target group
+	Source / Link
+	Parties involved / Year
+	Interoperability / platform
+	Country
+	1
+	 "Text4Baby"
+	A free text messaging service that sends 3 health messages to these women each week from pregnancy until the baby is 12 months old. Since February 2010, pregnant women and new moms have been receiving information to help them care for their health and give their babies the best possible start in life. 
+	Women can learn about text4baby from over 700 partners who have signed up to help. promote text4baby.
+Over 281,000 had enrolled by the end of January 2012. Ninety-six percent of enrollees report that they would recommend the service to a friend.
+Also available in spanish
+	https://www.text4baby.org/ 
+	The National Healthy Mothers, Healthy Babies Coalition (HMHB), Voxiva, CTIA – The Wireless Foundation and WPP. Johnson & Johnson is the founding sponsor, and premier sponsors include WellPoint, Pfizer and CareFirst BlueCross BlueShield. U.S. government partners include the White House Office of Science and Technology Policy, the Department of Health and Human Services and the Department of Defense Military Health System. 
+
+
+
+
+	serves all
+	USA
+	2
+	Street Bump
+Help Improve Your Streets
+	Residents use Street Bump to record "bumps” which are identified using the device's accelerometer and located using its GPS. Bumps are uploaded to the server for analysis. Likely road problems are submitted to the City via Open311, so they get fixed (e.g. potholes) or classified as known obstacles (e.g. speed bumps).
+	Street Bump helps residents improve their neighborhood streets. As users drive, the mobile app collects data about the smoothness of the ride; that data provides the City with real-time information it uses to fix problems and plan long term investments.
+	http://www.cityofboston.gov/doit/apps/streetbump.asp
+
+
+	In partnership with Mayor's Office of New Urban Mechanics, Connected Bits designed and developed the app while collaborating with IDEO and building from research done with Professor Fabio Carrera and InnoCentive
+	iOS / Android
+	USA
+	3
+	Züri wie neu
+	Online Plattform und App, die Bürgern die Möglichkeit gibt, die Stadtverwaltung auf Mängel und Schäden der städtischen Infrastruktur hinzuweisen mit Hilfe von Geolokalisation und Fotos. Eine Weiterleitung wird innerhalb eines Arbeitstages zugesagt, der Meldende erhält innerhalb von 5 Arbeitstagen eine Information zum Zeitpunkt der Schadensbehebung.
+	Zwischen 04/2013 und 03/2014  gingen 2.827 Meldungen ein – die Akzeptanz des Angebots liegt damit nach eigenen Aussagen deutlich über den Erwartungen der Stadt. Auf der Website ist ersichtlich, wie viele Meldungen in der zurückliegenden Woche eingereicht wurden, und auch wie viele Schäden im vergangenen Monat behoben wurden. Laut Stadtverwaltung konnte insbesondere die Beseitigung „wild“ entsorgten Abfalls so beschleunigt werden. Ziel der Plattform sei jedoch nicht nur die „Verschönerung“ der Stadt, sondern vor allem auch der direkte Kontakt zwischen Bevölkerung und Verwaltung, die Einbindung der Bürger und Stärkung der Mitverantwortung für den öffentlichen Raum
+	https://www.zueriwieneu.ch/ 
+	Die Plattform entstand auf Vorschlag des britischen Vereins MySociety und wurde in einem Wettbewerb für einen einjährigen Testlauf ausgewählt. Die Umsetzungskosten wurden von der Stadt Zürich mit 60.000 CHF beziffert
+	iOS /Android
+	Switzerland
+	4
+	Speed Adviser
+	Mobile app to alert motorists as they enter a school zone to stay within the speed limit
+	
+
+	https://itunes.apple.com/au/app/speed-adviser/id703369177?mt=8 
+	http://www.transport.nsw.gov.au/ 
+	iOS 6.1 or later
+	Australia
+	5
+	Mobile Canberra
+	The project is about developing an app which can help citizens and visitors with finding information about public services. Currently, the mobile services includes locations of bus stops, playgrounds, libraries, schools, public art, public toilets, Technical and Further Education campuses and public furniture
+	
+
+	http://www.egovernmentcluster.org.au/inaction/mobilecanb.php 
+	Mobile Canberra project is a collaboration between ACT Government, NICTA and Imagine Team
+	iOS / Android
+	Australia
+	6
+	Right Move Perth
+	The  Western Australian Government has launched an incident notification app for commuters in the state capital, Perth. Residents in the city of 1.7 million can now have access on-the-go to real-time information on incidents and road conditions around the metropolitan area, helping them avoid congested areas and better plan their journeys. By saving favourite routes, the app will inform users of incidents or delays on their regular routes and it can also access information from personal smartphone calendars to advise of incidents near upcoming appointment
+	Users will be notified of any incidents within a one kilometre radius no matter where they are in the metropolitan area and once a journey is under way, if anything changes, Right Move Perth sends an audio update.
+	http://rightmoveperth.wa.gov.au/ 
+	Created by the Transport portfolio – Department of Transport
+	iOS / Android
+	Australia
+	7
+	MyTransport.SG
+	A comprehensive transportation App that includes information on all modes of land transportation, information on events and promotions:
+* Personalise your favourite services with MyConcierge
+* Search and locate nearby bus stops and service number with bus route details
+* Get real-time island-wide bus arrival information
+* Search and locate taxi stands and quick dial for taxi booking 
+* Report road defects via Snap & Send
+* real-time parking lots availability 
+* Plan route with Traffic News
+* Receive notification on expressways traffic news during peak hours and train service delay information
+* Explore cycling towns, routes
+	Empowering commuters, motorists and cyclists in Singapore to make informed decisions and better plan their journey.
+	http://www.mytransport.sg/mobile/mytransport_mobile.html 
+	Land Transport Authority 
+http://www.lta.gov.sg/content/ltaweb/en.html 
+	iOS / Android
+	Singapore
+	8
+	MOCI
+	Creates a channel of communication between the citizens and residents of Kuwait and the Ministry of Commerce and Industry in Kuwait. It enables users to report commercial complaints and track their status.
+	
+
+	https://play.google.com/store/apps/details?id=com.HardTask.moci
+	Ministry of Commerce and Industry,
+www.moci.gov.kw 
+	Android
+	Kuwait
+	9
+	LAF Shield Application
+	The Application aims to enable the citizens to report to the authorities about any suspicious object, by sending its pictures or videos along with its description, easily and securely. In addition, the App allows sending out important information and pictures of wanted, kidnapped and missing individuals, helping citizens acquire information in exceptional instances.
+	
+
+	http://app.lebarmy.gov.lb/
+https://play.google.com/store/apps/details?id=com.apps2you.lebanesearmy&hl=de 
+	Lebanese Army,
+www.lebarmy.gov.lb 
+	iOS / Android
+	Lebanon
+	10
+	Government e-Procurement Portal 
+	SMS-delivered service on government employment opportunities and health.
+	
+
+	http://etenders.gov.eg/en/index.php 
+	The Ministry of State for Administrative Development (http://www.sis.gov.eg/En/Templates/Articles/tmpArticles.aspx?ArtID=385#.UywMj85xqO4 ) worked in partnership with Vodafone Egypt 
+	
+
+	Egypt
+	11
+	Zoll und Reise
+	“Zollinformationssystem”: Sie sind nicht sicher, wie viel man abgabenfrei aus dem Urlaub mit nach Deutschland bringen kann? Was ist zu bezahlen, wenn die Freimengen überschritten sind? Sie haben Zweifel, ob die im Urlaubsland angebotene Ware legal eingeführt werden darf? Mit dieser können Sie schnell und einfach herausfinden, welche Waren bei der Einreise nach Deutschland erlaubt sind und von welchen Sie lieber die Finger lassen sollten. Die App zeigt zudem an, was abgabenfrei mitgebracht werden kann
+	
+
+	https://itunes.apple.com/de/app/zoll-und-reise/id536214349?mt=8 
+	Bundesministerium der Finanzen,
+www.bundesfinanzministerium.de/‎ 
+	iOS / Android
+	Germany
+	12
+	Schilder App
+	Mit der Schilder-App erhalten Sie einen praktischen Informationszugang zu allen wichtigen Verkehrszeichen, Gefahrgutzeichen, sowie KFZ- und Länderkennzeichen auf Ihrem Smartphone. Erfahren Sie die Bedeutung auch von weniger alltäglichen Verkehrsschildern, testen Sie Ihr Wissen im Quiz oder lassen Sie Ihre Kinder während einer langen Autobahnfahrt die Herkunft der anderen Fahrzeuge herausfinden.
+	
+
+	https://itunes.apple.com/de/app/schilder/id611110385?mt=8 
+	Bundesministerium für Verkehr und digitale Infrastruktur, 
+www.bmvi.de/ 
+	iOS / Android
+	Germany
+	13
+	Wasserwege-App
+	Mit der Wasserwege-App erhalten Freizeitschiffer aktuelle Gewässermeldungen, wie Verkehrsbeeinträchtigungen, Pegelstände oder Eismeldungen und die Öffnungszeiten von über 600 (sechshundert) Schleusen zu den Bundeswasserstraßen in Deutschland auf ihr iPad. Auf einer Karte werden schnell und ortsbezogen alle wichtigen Informationen der Wasser und Schifffahrtsverwaltung (WSV) zu den circa 7.350 km Binnenwasserstraßen Deutschlands mit seinen Flüssen und Kanälen, sowie Seewasserstraßen für die Freizeit- und Sportbootschifffahrt visualisiert.
+	
+
+	https://itunes.apple.com/de/app/wasserwege/id683141489 
+	Bundesministerium für Verkehr und digitale Infrastruktur, 
+www.bmvi.de/ 
+	iOS / Android
+	Germany
+	14
+	Dreck-weg-App
+	Die Dreck-weg-App bietet den Bürgern Dresdens die Möglichkeit, Störungen im Stadtgebiet zu melden. Die Meldung bestehend aus einer Beschreibung, Foto und GPS-Koordinaten und wird automatisch an die zuständige Stelle der Stadtverwaltung weitergereicht und bearbeitet. Der Bürger erhält anschließend die aktuellen Statusinformationen zu seiner Meldung.
+	Die Applikation bietet dem Bürger die Möglichkeit, ergänzend zum „Dreck-Weg-Telefon", Verschmutzungen im Stadtgebiet direkt vor Ort mit einem Smartphone zu erfassen.
+	https://itunes.apple.com/de/app/dreck-weg-app/id601295885?mt=8 
+	Gemeinsame Entwicklung der Landeshauptstadt Dresden mit dem für E-Government zuständigen Sächsischen Staatsministerium der Justiz und für Europa, 
+http://www.egovernment.sachsen.de/26.htm 
+	iOS / Android
+	Germany
+	15
+	Bürgerkarte /Handysignatur
+	Die Handy-Signatur und die Karte mit aktivierter Bürgerkartenfunktion (z.B. e-card) können als rechtsgültige elektronische Unterschrift im Internet verwendet werden. So sparen sich sowohl Privatpersonen als auch Unternehmen zeitintensive Behördengänge. Gleichzeitig sind die Dokumente während der Übertragung vor ungewollten Datenänderungen oder fremden Zugriffen geschützt
+	* Amtswege rasch und einfach über das Internet erledigen
+* Hoher Sicherheitsstandard
+* Kostenfreie Nutzung
+* Komfortabler Einstieg bei diversen E-Services von Verwaltung und Wirtschaft
+
+
+	http://www.buergerkarte.at/ 
+	A Trust
+https://www.a-trust.at/ 
+	
+
+	Austria
+	16
+	MIL@pp
+„Landkreis Miltenberg“
+	Mit der App können Bürger und Touristen u.a. standortbezogene Dienste und Informationen zu öffentlichen Einrichtungen, kommunalen Ansprechpartnern sowie Sehenswürdigkeiten aus dem Landkreis Miltenberg abrufen und die Navigationsmöglichkeiten des Tablet-PCs oder Smartphones nutzen. Alle 32 kreisangehörige Gemeinden haben eine eigene Präsentation innerhalb der App.  Speziell für die Kommunalwahlen wurde eine Wahl-App integriert, mit der alle Wahlergebnisse aus dem Landkreis am Wahlabend live dargestellt werden.
+	Schnell und einfach. Durch integrierte Services wird der Kontakt mit Ihrer Verwaltung ein Kinderspiel. Die App liefert Ihnen Daten zu öffentlichen Einrichtungen und wichtigen Ansprechpartnern, die Sie dann gleich über Ihr mobiles Gerät kontaktieren können
+* touristische Informatione
+* kulturelle Highlights usw. zu Ihrem aktuellen Standort versorgt. 
+* Stadtrundgängen, Rad- und Wanderrouten inkl. Kartendarstellung und Navigation
+* Abfallkalender
+* Mängelmelder können Sie Schäden oder Defekte mit einem Foto dokumentieren und direkt an die Gemeinde weiterleiten
+	https://itunes.apple.com/de/app/landkreis-miltenberg/id830690069?mt=8 
+	Entwickler: Anstalt für Kommunale Datenverarbeitung in Bayern - AKDB,
+www.akdb.de/‎ 
+	iOS / Android
+	Germany
+	17
+	stoerung24 
+	Störungen und Mängel an öffentlicher Straßenbeleuchtung in ganz Deutschland und Österreich melden. Nachdem Ihre Störungsmeldung bei uns eingegangen ist kümmert sich das Team von stoerung24.de darum, daß diese an die zuständige Stelle zur Mängelbeseitigung weitergeleitet wird (Stadt, Gemeinde, Behörde, Energieversorger ...)
+	* Automatische Ermittlung Ihres Standorts per GPS
+* Störungsmeldungen für Straßenbeleuchtungen
+* der Störungsmeldungen kann ein Foto hinzugefügt werden
+	https://itunes.apple.com/de/app/stoerung24/id694600846?mt=8 
+	sixData GmbH 
+www.sixdata.de 
+	iOS / Android
+	Germany
+	18
+	Waste-less-App
+	The Hong Kong Environmental Protection Department. residents can easily find nearby recyclable collection points and related information. The app features a map that shows 4,000 collection locations and lists what recyclables are accepted at each point, so users can search for the nearest or most suitable place to bring their recyclables to
+	
+
+	https://play.google.com/store/apps/details?id=hk.com.codecrafters.wsb&hl=en 
+	
+
+	iOS / Android
+	Hongkong
+	19
+	Evergreen Activity Finder
+	To encourage connectivity and the use of ICT among the elderly. Using a smartphone or tablet, the user can easily access and search for information on more than 190 elderly centres and activities by the Leisure and Cultural Services Department. 
+	
+
+	https://play.google.com/store/apps/details?id=com.elderly.elderly 
+http://www.futuregov.asia/articles/2014/mar/12/hong-kong-government-launches-app-elderly/
+	The Hong Kong Society for the Aged (SAGE),
+www.sage.org.hk 
+	iOS / Andoid
+	Hongkong
+	20
+	MarineMate
+	Waikato Regional Council launched a new mobile application called "MarineMate" that gives users access to nationwide boating information - including tide times, boat ramp locations and boating bylaws - according to their location
+	This app will be a real asset to all water users
+	http://www.linz.govt.nz/about-linz/news-publications-and-consultations/news-and-notices/boating-app-innovative-use-of-public-data  
+	
+
+	iOS / Andoid
+	New Zealand
+	21
+	TRACnet 
+	A national program supporting those living with HIV. TRACnet has enabled HIV/AIDS practitioners to monitor Anti-Retroviral (ARV) therapy drug stocks in real time, allowing local hospitals to send urgent requests to central managers to replenish stocks. Furthermore, it gives rapid and reliable access to CD4 molecule and viral blood test results in remote health facilities.
+	This system enables practitioners involved in anti-retroviral (ARV) treatment programs to submit reports electronically and have timely access to vital information. Ensures that diagnosis and drugs are rapidly dispensed in areas where infrastructures are limited.
+	http://www.tracnet.rw/tracnet/core/modules/pagelayout/web/showpage.aspx?menukey=1 
+	Treatment and Research AIDS Centre, Rwanda Tel and MTN-Rwanda Cell. Voxiva Inc, an American based company, provided ICT support to the project. The project has also been supported through the USbased Centres for Disease Control and Prevention (CDC).
+	
+
+	Rwanda
+	22
+	ID Track and Trace 
+	People who apply for South African identity documents (IDs) or passports can now track the progress of their application via cellphone or internet. The system, developed by external IT experts working together with government officials, allows departmental managers to trace an ID or passport application from the moment it is lodged through every stage of the process until it is delivered to the applicant. It also allows for monitoring of productivity, allowing managers to establish which Home Affairs office is responsible for any particular ID application.
+	The new system will cut down not only on the queues at Home Affairs offices around the country, but also on the opportunities for corruption. By clearly identifying each official responsible for every step of the process, will allow managers to find any departmental employee who substitutes photographs and sells IDs illegally, alters details on the central registry system, or creates fraudulent ID numbers.
+	http://www.southafrica.info/services/government/idtrackandtrace.htm#.UywKWs5xqO4
+
+
+	Department of Home Affairs,
+www.dha.gov.za 
+
+
+	
+
+	South Africa
+	23
+	RACKpay
+	Enables you to pay Etisalat bills, utility bills and pay for business licenses.
+	
+
+	https://itunes.apple.com/de/app/rakpay/id767888199?mt=8 
+http://rak.ae/en/web/rakportal/home 
+	Government of Ras Al Khaimah
+Etisalat http://www.etisalat.ae/en/index.jsp 
+	iOS 
+	UAE
+	24
+	MOFA: Ministry of Foreign Affairs
+	You can contact the UAE embassies and consulates overseas and foreign embassies and consulates in UAE. You can also find information about visas and attestation. UAE citizens can register for Tawajudi service through this app.
+	
+
+	https://itunes.apple.com/ae/app/ministry-foreign-affairs-for/id540714559?mt=8 
+	Ministry of Foreign Affairs,
+http://www.mofa.gov.ae/mofa_english/portal/7e38025d-309a-46f9-9cd0-7d905dba965a.aspx 
+	iOS / Andoid
+	UAE
+	25
+	AWQAF
+	Fatwas, Prayer Times, Qibla and location of the nearest masjid to you. You can also browse and download Friday sermons and AWQAF's books and publications.
+	
+
+	https://itunes.apple.com/ae/app/general-authority-islamic/id565100364?mt=8 
+	General Authority of Islamic Affairs and Endowments,
+http://www.awqaf.ae/?Lang=EN 
+	iOS / Andoid
+	UAE
+	26
+	UAE Laws HD 
+	You can get federal laws, including the penal code and criminal, civil, traffic and narcotics laws through this app. It also includes a notes section where you could save the legislation you might need later. You can also e-mail or share legislations via text message.
+	
+
+	https://itunes.apple.com/ae/app/uae-laws-hd/id467949271?mt=8 
+	Dubai Public Prosecution,
+http://www.dxbpp.gov.ae/Default.aspx 
+	iOS 
+	UAE
+	27
+	Abu Dhabi Police
+	The Abu Dhabi Police app for public users provides traffic updates and other services relating to traffic fines, reserved plates and police station locations and contact numbers.
+	
+
+	Link in iTunes
+	Abu Dhabi Police,
+http://www.adpolice.gov.ae/en/default.aspx 
+	iOS / Android
+	UAE
+	28
+	CityGuard
+	You can report incidents and submit complaints related to the Abu Dhabi Emirate directly to the government. CityGuard will automatically create a case for the incident with the Abu Dhabi Government Contact Centre, which will promptly assign the case to the appropriate Government Entity for resolution.
+	
+
+	Link in iTunes 
+	Abu Dhabi Systems and Information Centre,
+http://adsic.abudhabi.ae/Sites/ADSIC/Navigation/EN/root.html 
+	iOS / Android
+	UAE
+	29
+	DEWA
+	With the DEWA app you can view and pay your bills online, get information about DEWA office location, contact details, working hours and access many other services.
+	
+
+	Link in iTunes
+	Dubai Electricity & Water Authority,
+https://www.dewa.gov.ae/default.aspx 
+	iOS / Android
+	UAE
+	30
+	mPay
+	Dubai Smart Government has designed this service with the aim of bringing more ease and convenience to users, particularly in situations where users have to make emergency payment of fines or fees for a continued service or charges to avoid a new fine. A number of government entities are currently using this service, which covers Salik recharge from RTA, payment of traffic fines from Dubai Police, payment of electricity bills from Dubai Electricity and Water Authority, payment of Etisalat bills and donations to Dubai Cares and Al Jalila Foundation. 
+	
+
+	Link in iTunes
+https://mpay.dubai.ae/userPortal
+
+
+	Department of Dubai Smart Government,
+www.dsg.gov.ae/en
+
+
+	iOS / Android or can be used through conventional SMS
+	UAE
+	31
+	E-Water Payment- National Water and Sewerage Corp Payments 
+	Allows consumers to pay water utility bills via MTN Mobile Money.The difference is that with the old system, all customers have to queue up at our cash offices to pay their bills, but with the new e-water systems, customers have a variety of options in which to pay their bills, e.g., using mobile money pay bill service. 
+	Through these systems, payment points for water bills are widely spread across all customer locations and as such, customers no longer need to travel all the way to National Water cash offices to pay their bills. So the new system is more convenient
+	http://www.nwsc.co.ug/waytopaybill.html
+
+
+	MTN
+	
+
+	Uganda
+	32
+	iRICH - die BürgerApp
+	Gremienarbeit zum Mitnehmen: Diese App bietet dem politisch interessierten Bürger die Möglichkeit, sich Sitzungsunterlagen vollautomatisch auf sein iPad zu laden.
+	Stets aktuelle öffentliche Informationen, alle Unterlagen überall dabei, Ideen und Notizen aufzeichnen und speichern und lokal recherchieren.
+	https://www.sitzungsdienst.net/produkte/buergerapp.html 
+	Firma Sternberg Software-Technik GmbH, Bielefeld.
+	iOS
+	Deutschland
+	33
+	Smart Traveler
+	The official DOS app for U.S. travelers, invites you to see the world with easy access to frequently updated official country information, travel alerts, travel warnings, maps, U.S. embassy locations, and more.
+With Smart Traveler, you can create personal itineraries, add notes, and organize your trips. 
+Smart Traveler also provides access to the State Department’s Smart Traveler Enrollment Program (STEP). Free STEP enrollment enables the DOS to better assist you in emergencies such as natural disasters, unrest in foreign countries, or lost/stolen passports overseas. During your travels, STEP can help your family and friends reach you in an emergency.
+	
+
+	http://apps.usa.gov/smart-traveler.shtml 
+	Department of State (DOS),
+www.state.gov/‎ 
+	iOS / Android
+	USA
+	34
+	MyAnaheim (Graffiti) 
+	People can attach a photo of the graffiti to their service request to help the city prioritize removal.  HP designed the app to be easy for citizens to use by minimizing the information required and making it easy to attach images. Also possible: request shopping cart removal, streetlight repair, and trash or furniture pickup. They can also access the city event calendar, report suspicious activity, and find volunteer opportunities to make their city better.
+	Increase coordination, promote efficiency and do more with less: Public Participation and the city can quickly acknowledge the service request and notify the reporter when the graffiti has been removed (customer/consumer satisfaction).
+	https://itunes.apple.com/us/app/my-anaheim/id388747496?mt=8 
+	HP
+	iOS / Android
+	USA
+	35
+	BTP - Bangalore Traffic Info
+	The Traffic Police Department of Bangalore City has launched a mobile app for motorists to get real-time traffic updates, report road incidents, and check their fine records. Users can also report traffic conditions, including slow moving traffic, jams, bottlenecks, vehicle breakdowns, accidents, potholes and more. Besides adding details, users can also snap a photo and send it with the report. In the ‘PublicEye’ feature, motorists can take photos and report road violations directly to the Traffic Police. This includes complaints of Auto Rickshaws and tracking the status of the complaints. Besides using the app, motorists can subscribe to live traffic alerts via SMS. 
+	
+
+	https://play.google.com/store/apps/details?id=com.kabhos.android.apps.fb.btp 
+	Kabhos Tech / 
+Traffic Police Department of Bangalore City,
+www.bangaloretrafficpolice.gov.in 
+
+
+	Android
+	India
+	36
+	KATWARN
+	KATWARN ist ein ergänzendes Warnsystem, das nicht nur darüber informiert, DASS es eine Gefahr gibt, sondern auch, WIE zu handeln ist. Durch KATWARN werden betroffene Personengruppen z. B. im Haushalt, Büro oder unterwegs individuell gewarnt. Als App gewährleistet KATWARN ortsbasierte Benachrichtigungen über Gefahren, wie z. B. Großbrände, Stromausfälle, Bombenfunde oder Extremunwetter. Die Warnungen werden von den kommunalen Feuerwehr- und Rettungsleitstellen in Abstimmung mit den zuständigen Katastrophenschutzbehörden verfasst. Zusätzlich nutzt der Deutsche Wetterdienst das System mit bundesweiten Unwetterwarnungen der höchsten Stufe („extremes Unwetter“) bei Unwetter mit weiträumigen und extremen Gefahren. Nutzer der KATWARN-App können sich zusätzlich zum Standort über zwei weitere, frei wählbare Orte, an denen KATWARN bereits in Betrieb ist, warnen lassen. Diese Auswahl kann jeder Zeit aufgehoben, angepasst und bei Bedarf ausgeschaltet werden.
+	Die App ermöglicht den Behörden, die „letzte Hürde“ im Katastrophenschutz zu überwinden und ihren Adressaten direkt an ihrem aktuellen Standort zu erreichen.
+KATWARN ist bereits seit 2009 an verschiedenen Standorten im Einsatz. Großstädte wie z.B. Berlin und Hamburg nutzen es bereits. Die Anwendung ist für Nutzer kostenfrei und freiwillig und richtet sich an die Zielgruppen G2C und G2B
+	http://www.fokus.fraunhofer.de/de/espri/ueber_uns/anwendung/katwarn-app/index.html 
+https://itunes.apple.com/de/app/katwarn/id566560753?mt8 
+http://www.voev.de/web/html/start/verband/engagement/schadenverhuetung/katwarn/index.html 
+	KATWARN wurde vom Fraunhofer-Institut FOKUS i. A. der öffentlichen Versicherer Deutschlands entwickelt
+	iOS / Android
+	Germany
+	37
+	M4Girls
+	M4Girls aims the provision of educational content on a mobile phone platform to girl learners.
+	The project targeted the development of Mathematics competencies in Grade Ten girl learners from underserved communities in South Africa, and aimed to empower girl learners.
+	https://mobiledevelopmentintelligence.com/products/822-m4girls
+
+
+	Partnership of South African Government’s Department of Education, Nokia and the non-profit Mindset Network
+	
+
+	South Africa
+	38
+	BridgeIT
+	From 2007 to 2012, BridgeIT improved the quality of teacher instruction and increases primary school student achievement in math, science, and life skills by leveraging the power of cell-phone technology. After a successful launch in the Philippines under the name text2teach. Through the program, teachers downloaded video content using cellular phones, which were connected to TVs in their classrooms, allowing remote schools and communities to access a vast range of locally-developed or adapted educational content. The videos, designed to enhance existing primary school curricula, were paired with learner-centered lesson plans.
+	BridgeIT's goal is to significantly increase the quality of teacher instruction and achievement among primary school boys and girls in math, science, and life skills through the innovative use of cell phones and digital technology.
+* In the Philippines, over seven years, BridgeIT has been implemented in 290 schools, training 1,476 primary school teachers, and benefiting 976,000 rural and urban students.
+* In Tanzania, over one year, BridgeIT has been implemented in 150 schools, training 3,640 primary school teachers, and benefiting 102,238 rural and urban students.
+
+
+	http://www.iyfnet.org/bridgeit 
+	the BridgeIT model was adapted in Tanzania in 2007 with a three-year grant from the U.S. Agency for International Development (USAID). In Tanzania, BridgeIT, known as Elima kwa Teknolojia (Education through Technology), led by IYF and the Tanzanian Ministry of Education and Vocational Training (MoEVT).
+Partners: Nokia, Vodacom
+	
+
+	Tanzania / Phillipines
+	39
+	Invil
+Information Network Villages
+	The project aims to enable the people in remote areas to access to rich contents such as education, medical information, and agricultural skills reducing the digital gap between the urban and rural areas. It also provides capabilities to trade local specialties directly to consumers, gaining more money from the local production. Thus the project plays a role in boosting the local economy to balance the regional development nationwide. Training the basic internet skills for the people in remote areas is expected to expand the demand for the e-gov services.
+	The Invil-project is one of the main projects for rural informatization, which aims to close information divide, raise community incomes and improve the quality of life in rural areas by introducing e-commerce.
+	http://korea.go.kr/eng/sub/about_egov02.jsp 
+http://www.invil.org
+	
+
+
+
+
+	
+
+	Republic of Korea
+	40
+	S.A.R.A. 
+“Sexual Assault Report Anonymously”
+	“Send it to somenone who cares”
+This app will allow you to report a sexual assault anonymously to the South Eastern Centre Against Sexual Assault.
+	* Make a completely anonymous report
+* Have a voice - Don’t remain silent
+* Help the police focus on crime hotspots
+* Help make your community safer
+	http://www.vic.gov.au/social-media/mobile-apps/sexual-assault-report-anonymously-s-a-r-a.html
+http://www.sara.org.au/page/HomePage.aspx 
+	South Eastern Centre Against Sexual Assault
+	iOS / Android
+	Australia
+	41
+	Police Child ID 
+	Australian parents and guardians can easily collect and send important information to police in an attempt to locate their children if they go missing.
+	The application also includes safety advice and checklists for parents on keeping children safe, information about what to do in the hours immediately after a child goes missing and provides quick and efficient access to emergency contact phone numbers.
+	http://www.police.qld.gov.au/online/mobile/childsafetyapp.htm  
+	http://www.missingpersons.gov.au/ 
+The Australian Police Child ID App was adapted from the Federal Bureau of Investigation's (FBI) Child ID App in the United States.
+	iOS / Android
+	Australia / USA
+	42
+	Parken Wien 
+
+
+	Kurzparkzonen Wien mit SMS Parkticket. Parken Wien erkennt anhand der aktuellen Position automatisch, ob Sie sich in einer Kurzparkzone befinden und ob diese im Moment aktiv ist.
+Kostenpflichtige Kurzparkzonen werden rot, kostenlose grün dargestellt.
+	
+
+	https://itunes.apple.com/de/app/parken-wien-kurzparkzonen/id548389439?mt=8 
+	http://smartcode.at/ 
+	iOS / Android
+	Austria
+	43
+	Entsorgungs-App
+	Die Entsorgung Zürich App unterstützt Sie dabei, Informationen darüber zu erlangen, wie, wann und wo Sie Ihren Abfall in der Stadt Zürich sachgerecht entsorgen können.
+	* Anzeige der Kalenderdaten der Entsorgungstermine je nach PLZ
+* Anzeige der Kalenderdaten der E- und Cargo Trams je nach ausgewählter Haltestelle 
+* Karte mit Standorten der Sammelstellen der Stadt Zürich
+* Karte mit Standorten der Recyclinghöfe 
+* Erinnerung für Entsorgungstermine
+	https://play.google.com/store/apps/details?id=ch.bretscherhochstrasser.android.entsorgungzuerich
+
+
+	http://www.bretscherhochstrasser.ch/ 
+	Android
+	Austria
+	44
+	IRS2Go
+	The IRS is the U.S. government agency responsible for tax collection and tax law enforcement. This free mobile app offers taxpayers a number of safe and secure ways to access popular tools and the most up-to-date tax information. 
+	* Get Your Refund Status
+* Get My Tax Record
+* Watch IRS Videos and follow
+* Get Tax Updates and news
+	http://apps.usa.gov/irs2go.shtml
+
+
+	Internal Revenue Service (IRS)
+http://www.irs.gov/
+
+
+
+
+	iOS /  Android
+	USA
+	45
+	Ask Karen
+	You can get answers to your food safety questions while at the grocery store, farmers market, in your kitchen, or while at your barbecue grill. You can chat live with a food safety expert on weekdays between 10 a.m. and 4 p.m. EST, and the app provides the USDA Meat and Poultry Hotline number (1-888-MPHotline) in case you want to speak to someone directly. You can share answers to food safety questions via email from Mobile Ask Karen.
+	
+
+	http://apps.usa.gov/ask-karen.shtml
+
+
+	U.S. Department of Agriculture (USDA),
+www.usda.gov/‎ 
+	iOS / Android
+	USA
+	46
+	Nice Connected Boulevard
+	The project is testing multiple applications such as smart parking, waste disposal, lighting efficiency and environmental monitoring. All of them build on information generated by approximately 200 wirelessly connected devices and sensors deployed along the 800-yard-long Boulevard Victor Hugo. The project “Connected Boulevard” is one of the 1st Internet of Things (IoT) proof-of-concept (PoC) for a smart city worldwide.
+	Nice Mayor Christian Estrosi said: Many more things are going to get connected between people, with and between objects, creating valuable interactions and processes including that of public administration. Our ability as a city to harness this data is crucial to understanding what's going on in real-time and to enhance a multitude of services for city-dwellers.Connected Boulevard will allow better tracking of noise, air pollution, relative humidity and temperature, facilitating information for citizenship on weather forecasting and civic behaviors. This fosters defending air purity, supporting new business using environment data provided by public services and introducing noise monitoring as a new a key part of the urban pollution.
+	http://www.kommune21.de/meldung_18248_Smarter+parken.html 
+http://www.greenbiz.com/blog/2013/06/23/cisco-nice-smarter-city 
+	Cisco France, http://www.cisco.com/ 
+Think Global Gmbh + Alliance Framework, www.think-global.com 
+Alliance: Citelum, Egis, Sude, Urbiotica; as well as Meteosim, Mappy, NextiraOne and GeekGaps
+	
+
+	France
+	47
+	115-App
+	Um Bürgern und Unternehmen den Zugang zur Verwaltung zu erleichtern, plant der 115-Verbund eine Auskunft auch über mobile Endgeräte zu ermöglichen.
+Die geplanten Funktionalitäten der App für die Nutzer sind u.a.:
+■ Mobile Recherche- und Auskunftsfunktion zu 115-Leistungen
+■ Elektronische Kontaktaufnahme zum 115-Service über mobile Endgeräte. Dabei wird bei der Konzeption des 115-App-Moduls besonderer Wert gelegt auf:
+■ Datenschnittstellen für die Übertragung von Informationen
+■ hohe Qualität und Einheitlichkeit der für die Auskunft zugrundeliegenden Datenbasis
+	Die App spart Zeit, ist unkompliziert und zuverlässig: Die Suche nach Zuständigkeiten und Telefonnummern entfällt und die meisten Fragen können sofort beantwortet werden. Außerdem wird dem Nutzer eine Rückmeldung auf seine Fragen garantiert.
+	https://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2014/03/115.html
+http://www.isim.rlp.de/veranstaltungen/cebit-2014/exponate/   
+	Ministerium des Innern, für Sport und Infrastruktur
+Rheinland-Pfalz
+	
+
+	GER
+	48
+	FirstToSee Emergency Tool / App
+	Social media now plays a critical role in how the public communicates during an emergency. The FirstToSee Emergency Support System leverages existing social media technologies to greatly improve emergency preparedness and management. The FirstToSee mobile app provides the public with new tools for communicating directly with responders. Often it is the public who are the first to sense danger or help survivors immediately following a disaster. The app allows users to send emergency reports and photos from their smartphones or tablets.These reports are available in the FirstToSee portal in near-real time.Furthermore, the app has a “trusted user” function that will highlight reports submitted by public employees or vetted volunteers.
+	In summary, the FirstToSee system helps federal, state and local government create a clearer operational picture and provide a more targeted response during a crisis.
+
+
+	http://www.govtech.com/internet/Using-Social-Media-to-Aid-in-the-Oso-Mudslide-.html 
+
+
+http://first2see.org/wp-content/uploads/2013/05/FirstToSee-System-White-Paper-Final-06212013.pdf
+
+
+
+
+	http://first2see.org/
+
+
+	iOS, Android
+	USA
+	49
+	Boone Proptax
+
+
+(Mpay)
+	Arkansas’ Boone County Offers New Options for Property Tax Payments.The Tax Collector’s Office recently announced that it is accepting credit card payments, meaning residents can avoid lines at the Collector’s Office and pay their taxes online or from any mobile device. The Boone County Tax Collector partnered with the state’s eGovernment service provider, Information Network of Arkansas (INA), to develop a secure payment system that ensures privacy, security and data integrity. Credit card transactions include a processing fee to cover the cost of the system, which INA developed for the county free of charge.
+	
+
+	https://www.ark.org/propertytax/boone/index.php 
+	The Boone County Tax Collector partnered with the state’s eGovernment service provider, Information Network of Arkansas (INA), 
+http://www.egov.com/Partners/Pages/Arkansas.aspx 
+	Any device
+	USA
+			
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	D. Target group: Government-to-Business (G2B)
+
+
+No.
+	Names / Title
+	Desrciption
+	Benefits for target group
+	Source / Link
+	Parties involved / Year
+	Interoperability / platform
+	Country
+	1
+	Free SIMs for farmers 
+	1 million free SIMs for farmers subsidized by central government. Vodafone announced the distribution of one million mobile phone lines, free of charge, to farmers across Egypt to provide them with guidance and tips on the various types of crops in order to yield the highest possible productivity per acre of land. Through theses services, farmers will have access to opportunities to improve their productivity and, accordingly, enhance the agricultural sector. 
+	Through modern communication technologies, farmers will now have continuous means of communication as well as wide-scale agricultural guidance on all phases of agriculture, starting from cultivation all the way through harvesting. Moreover, farmers will also be able to inquire about the various means of irrigation and fertilization, as well as acquaint themselves with the most favorable marketing opportunities.
+	http://neareast.fao.org/Pages/NewsDetails.aspx?lang=EN&Cat=0&I=0&DId=19&CId=0&CMSId=5001345&id=2400985 
+http://www.developingtelecoms.com/tech/operator-services/73-value-added-services/3347-egyptian-agriculture-initiative-allows-farmers-access-to-services-via-mobile.html 
+	Ministry of Agriculture and Land Reclamation
+Vodafone Egypt
+	
+
+	Egypt
+	2
+	Open Payments Mobile for Physicians
+	Free mobile app to help physicians keep track of, store, and view financial payments and other transfers of value from applicable manufacturers of covered drugs, devices, biologicals, or medical supplies to physicians, as defined by the Physician Payment Sunshine Act and its implementing regulations.
+	
+
+	http://apps.usa.gov/open-payments-mobile-for-physicians.shtml 
+	Centers for Medicare & Medicaid Services (CMS) 
+http://www.cms.gov/ 
+	iOS / Android
+	USA
+	3
+	NAFIS/NALEP 
+	Agricultural information service. Benefits of market information access through mobile telephone. Farmers call in for recorded information. To develop and increase productivity in the rural sector in Kenya, Sweden has contributed in constructing NALEP; National Agriculture and Livestock Extension Programme. They are providing education, training and consulting for more than 500 000 people organized in Common Interest Groups who work with farming, fishing or cattle.
+	NAFIS is a dynamic system that has been developed to exploit mobile telephone and internet technologies. It provides information through a detailed website and also through mobile phones.  Information is entered locally through the internet by extension officers and accessed via this website or through mobile phones, thereby reaching as many farmers as possible.
+	http://www.nafis.go.ke/
+http://de.slideshare.net/iaald/1-nenkari-nafis-iaald
+https://twitter.com/NAFISKenya 
+	National Agriculture and Livestock Extension Programme (NALEP),
+Teknobyte, Lead consultant, www.teknobyte.co.ke 
+Speechnet Ltd, www.speechnet.net 
+
+
+	
+
+	Kenya
+	4
+	SC (Securities Commission) Assist
+	 The Securities Commission launches free App. The mobile app gives users access to comprehensive information on licensed entities and relevant government agency contacts. Additionally, it also allows users to determine the validity and legality of an investment scheme.
+	Investors, Stakeholders: the mobile app aims to provide the public with relevant information to help them make well-informed investment decisions
+	https://play.google.com/store/apps/details?id=com.openwave.scam.alert&hl=de
+	Securities Commission Malaysia
+	iOS / Android
+	Malaysia
+	5
+	AMSDP,
+(Agricultural Marketing Systems Development Program) 
+	Commodity price service by SMS, The project’s objective is to increase rural poor people’s food security and incomes by improving the structure and performance of the marketing system.The target group of AMSDP: smallholder farmers as well as producers groups and other grassroots institutions. The programme aims to promote interactions between them and the small-scale traders’ and processors’ groups operating in the rural areas. The targeted districts are those that have productive and marketing potential, favorable agro -ecological conditions and organized producers’ groups. Activities are designed to improve the bargaining position of the producer s’ groups within the marketplace by strengthening their capacity to identify market opportunities and negotiate prices. 
+	* agricultural marketing policy development
+* small producers’ empowerment by building their
+* entrepreneurial and organizational capacity and improving their links to markets
+* Introducing a warehouse receipt system allowing the small farmers using the warehouses to obtain loans for the period between harvest and sale
+* the development of rural marketing infrastructure, including storage facilities, market places and roads.
+	http://seasofchange.net/wp-content/uploads/downloads/2012/03/Case-study-18-Marketing-systems-Tanzania.pdf
+http://operations.ifad.org/web/ifad/operations/country/project/tags/tanzania/1166/project_overview 
+	Vodacom and Ministry of Industry and Trade.
+	
+
+	Tanzania
+	6
+	QAS VS 
+(The Question and Answer Service Voucher System)
+	The service uses a variety of tools and a range of actors including field agents, rural information brokers, information scientists, extension agents and researchers. Information request forms and digital cameras are some of the tools used to capture farmers’ problems. These problems, together with relevant photographs are published on the internet and, through an established system of experts, farmers receive timely and relevant responses to their problems.
+
+
+	Limited access to agricultural information for farmers in Uganda leading to low productivity, low incomes and food insecurity. This Voucher system enables personalized advice for farmers, run by the Rural Empowerment Network. 
+	http://extension.cta.int/pages/Documents/Tools%20and%20Approaches/3.Use%20of%20Mobile%20Phones/CTA129%20Use%20of%20Mobile%20Phones_Kasangaki_05.pdf 
+	Rural Empowerment Network (REN), Agricultural Research Information Service (ARIS), Federal Agency for Agriculture and Food  (BLE) (ISICAD Working Group).
+	
+
+	Uganda
+	7
+	KATWARN
+	KATWARN ist ein ergänzendes Warnsystem, das nicht nur darüber informiert, DASS es eine Gefahr gibt, sondern auch, WIE zu handeln ist. Durch KATWARN werden betroffene Personengruppen z. B. im Haushalt, Büro oder unterwegs individuell gewarnt. Als App gewährleistet KATWARN ortsbasierte Benachrichtigungen über Gefahren, wie z. B. Großbrände, Stromausfälle, Bombenfunde oder Extremunwetter. Die Warnungen werden von den kommunalen Feuerwehr- und Rettungsleitstellen in Abstimmung mit den zuständigen Katastrophenschutzbehörden verfasst. Zusätzlich nutzt der Deutsche Wetterdienst das System mit bundesweiten Unwetterwarnungen der höchsten Stufe („extremes Unwetter“) bei Unwetter mit weiträumigen und extremen Gefahren. Nutzer der KATWARN-App können sich zusätzlich zum Standort über zwei weitere, frei wählbare Orte, an denen KATWARN bereits in Betrieb ist, warnen lassen. Diese Auswahl kann jeder Zeit aufgehoben, angepasst und bei Bedarf ausgeschaltet werden.
+	Die App ermöglicht den Behörden, die „letzte Hürde“ im Katastrophenschutz zu überwinden und ihren Adressaten direkt an ihrem aktuellen Standort zu erreichen.
+KATWARN ist bereits seit 2009 an verschiedenen Standorten im Einsatz. Großstädte wie z.B. Berlin und Hamburg nutzen es bereits. Die Anwendung ist für Nutzer kostenfrei und freiwillig und richtet sich an die Zielgruppen G2C und G2B.
+	http://www.fokus.fraunhofer.de/de/espri/ueber_uns/anwendung/katwarn-app/index.html 
+https://itunes.apple.com/de/app/katwarn/id566560753?mt8 
+http://www.voev.de/web/html/start/verband/engagement/schadenverhuetung/katwarn/index.html 
+	KATWARN wurde vom Fraunhofer-Institut FOKUS i. A. der öffentlichen Versicherer Deutschlands entwickelt.
+	iOS / Android
+	Germany
+	8
+	Straßenbeleuchtung
+	Meldung defekter Straßenlaternen, Erfassung Bestand, Disposition Außendienst, Materialdisposition+Beschaffungskosten, Lagerkosten, Investitionsplanung Austausch von Beleuchtungen+Umrüstung LED zur Verbrauchssenkung (Kosten, Umweltaspekte).
+
+	Bürger, Stadtwerke intern
+	Anliegen.Bonn.de Open311 Api
+	
+
+	
+
+	Germany
+	9
+	ASYS
+	Für eine effektive Überwachung der Abfallentsorgung sind aktuelle, umfassende und verlässliche Informationen zum Entsorgungsgeschehen erforderlich. Darüber hinaus sind diese Informationen so umfangreich, dass die Bereitstellung und Auswertung der erforderlichen Daten den Einsatz moderner Informationstechnologien erfordert. Das Abfallüberwachungssystem ASYS bietet dem Anwender aus den Abfallbehörden die Möglichkeit, alle zur Überwachung der Abfallentsorgung notwendigen Daten effizient zu verwalten. Der inhaltliche Rahmen hierzu ergibt sich aus dem Kreislaufwirtschaftsgesetz und dem zugehörigen untergesetzlichen Regelwerk sowie den für den Bereich Abfall maßgeblichen europäischen Richtlinien sowie Verordnungen.
+Darüber hinaus können auch die Landkreise und kreisfreien Städte auf die ASYS-Daten lesend zugreifen.
+	ASYS dient des Weiteren in Brandenburg als Datenbasis für den LUIS-Dienst, der die Öffentlichkeit im Internet mit Informationen zu Entsorgungsanlagen und zugelassenen Beförderern informiert.
+Durch den Anschluss der ASYS-Datenbank an die Web-Applikation IPA-KON ist es dem BAG (Bundesamt für Güterverkehr) möglich, mobil auf die ASYS-Daten zuzugreifen.
+Möglichkeiten im System:
+* Stammdatenpflege zu Entsorgern, Beförderern und Erzeugern
+* die Vorab- und Verbleibskontrolle der Abfallströme
+* Bearbeitung von Anzeigen und Erlaubnissen zu Sammlern, Beförderern, Händlern und Maklern
+* die Entsorgungsfachbetriebszertifikate
+* die grenzüberschreitende Abfallverbringung
+* funktional bietet ASYS die Möglichkeit, Daten automatisiert auf elektronischem Wege zwischen den ASYS-einsetzenden Behörden und mit den beteiligten Betrieben auszutauschen.
+	http://www.portalu.de/trefferanzeige?cmd=doShowObjectDetail&docuuid=C0EEBC13-E53F-4A35-A405-9ABC4E92ED31&plugid=/kug-group:kug-iplug-udk-db_bb 
+	Länderarbeitsgruppe GADSYS
+http://www.asysnet.de/index.php?sp=de&id=449 
+	
+
+	GER
+	10
+	Open Payments Mobile for Physicians
+	1.           The Centers for Medicare and Medicaid Services (CMS) is providing a free mobile app to help physicians keep track of, store, and view financial payments and other transfers of value from applicable manufacturers of covered drugs, devices, biologicals, or medical supplies to physicians, as defined by the Physician Payment Sunshine Act and its implementing regulations. 
+
+
+	
+
+	http://apps.usa.gov/open-payments-mobile-for-physicians.shtml 
+	Centers for Medicare & Medicaid Services (CMS),
+www.cms.gov/ 
+	iOS, Android
+	USA
+	11
+	Technology Insights App
+	Technology Insights from CDW provides users with an immersive experience, offering access to exclusive content to assist in researching,planning, purchasing and executing IT projects.CDW offers this app as a portal into a world of technology experience and knowledge, serving up feature-rich content in various formats, from architect-hosted webinars and videos to detailed case studies, from white papers by leading technologists to how-to solutions guides and infographics. This is the app to go to for IT answers. 
+	Agencies that have implemented mobile computing know that it’s no small undertaking when it’s done properly. To support them, CDW’s Technology Insights app now features the Total Mobility Management interactive guide. Whether your agency is just starting out, or your IT staff is expert in the deployment of mobile computing, Total Mobility Management offers guidance, case studies, videos, white papers, multimedia links and more, all tailored to your needs.
+	http://www.fedtechmagazine.com/article/2014/04/agency-mobility-made-easy
+
+
+http://solutions.cdw.com/tech-insights-mobility 
+	CDW,
+http://www.cdw.com/ 
+
+
+http://www.cdw.com/content/solutions/mobility/total-mobility-management.aspx?cm_re=Trending+Now-_-Mobility-_-Click
+ 
+	iOS, Android 
+	USA
+	12
+	i-Bulk SMS
+	 Oman Mobile’s new bi-lingual iBulk SMS service utilises an innovative web-based engine that allows businesses to communicate easily with their targeted opt-in customers via the mobile medium and gives businesses the ability to send short messages to their targeted clientele effortlessly, with the click of a button
+
+
+	Some of the most popular uses of iBulk SMS include:
+* Mobile alerts
+* Informing customers about your special offers and promotions
+* Contacting your workforce
+* Reminding clients about appointments
+* Sending holiday greetings
+* After sales follow-up
+* Interactive marketing campaigns
+
+
+	 https://ismartsms.net/iBulkSMS/Default.aspx
+
+
+
+
+	Omantel,
+
+
+http://www.omantel.om/OmanWebLib/Business/Mobile/iBulk.aspx?LinkID=2&MenuId=20
+
+
+	
+
+	Oman
+	E. Target group: Government-to-Science/Education
+
+
+No.
+	Names / Title
+	Description
+	Benefits for target group
+	Source / Link
+	Parties involved
+	Interoperability / platform
+	Country
+	1
+	Science.gov Mobile
+	Billed as a tool to help kids with homework, it’s a powerful search engine that checks science data from 12 federal agencies going back to 1990. So if you have a science-related question, there is a good chance that someone in government has asked the same thing at some point, and probably commissioned a study to get the answer.
+	Find science information and research results from U.S. federal agencies. Get quick answers from over 55 scientific databases and more than 2100 websites. Clustering, or grouping results into meaningful topics, helps guide you to desired information. Get Wikipedia topics and EurekAlert news related to your search. E-mail results to colleagues and friends.
+	http://apps.usa.gov/science-gov-mobile.shtml 
+	Department of Energy, 
+www.energy.gov/ 
+	iOS / Android
+	USA
+	2
+	WISQARS
+mobil
+(Web-based Injury Statistics Query and Reporting System)
+	WISQARS is an interactive database that provides customized reports of injury-related data. The WISQARS Mobile App allows for sharing injury-related information on a tablet. The app dynamically-displays selected leading causes of injury death data using maps and charts of national and state-level death counts and rates. The app also enhances the user-friendliness of WISQARS and ready access to injury-related death data.
+	Researchers, the media, public health professionals, and the public can use WISQARS™ data to learn more about the public health and economic burden associated with unintentional and violence-related injury in the US.
+* Show the size of the public healthand economic impact of the injury problem
+* Describe, compare, and monitor trends in unintentional and violence-related injuries
+* Identify new or developing injury problems
+* Identify persons at risk of injury
+* Provide reliable surveillance data for program and policy decisions.
+	http://www.cdc.gov/injury/wisqars/pdf/WISQARS-FactSheet20120425-a.pdf
+https://itunes.apple.com/us/app/wisqars-mobile/id793979134?mt=8 
+	Centers for Disease Control and Prevention,
+www.cdc.gov/‎ 
+	iOS
+	USA
+	3
+	FREE
+	1.           Federal Registry for Educational Excellence (FREE) FREE makes it easier to find digital teaching and learning resources created and maintained by the federal government and public and private organizations.
+
+
+	It runs on a custom version of WordPress, an open source content management system. 
+	http://free.ed.gov/ 
+http://apps.usa.gov/federal-registry-for-educational-excellence.shtml 
+	Department of Education (ED), 
+www.ed.gov 
+	
+
+	USA
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+F. Rethinking structures and ideas
+
+
+No.
+	Names / Title
+	Description
+	Benefits for target group
+	Source / Link
+	Parties involved
+	Interoperability / platform
+	Country
+	1
+	Nachtrag zu: 
+LEA goes Mobile
+	Ein flotter Slogan für die Dienste des Landeseinwohneramtes (LEA) zeigt erste  Schritte auf, Verwaltungsdienste zu vereinfachen. Die Anwendung soll einen  mobilen Zugriff auf das Melderegister des Landeseinwohneramts Berlin ermöglichen. Vor allem soll der elektronische Vorgang Zeit und Personal bei Behörden & Kunden einsparen. Per mobilem Endgerät wird eine Meldeanfrage an die Behörde gesandt (Name,  Vorname, Geburtsdatum). Bei positivem Ergebnis wird die Adresse des Angefragten übermittelt. Es gab bereits schon erste erfolgreiche Pilotversuche. Die tatsächliche Umsetzung erfordert allerdings eine technisch sichere Abwicklung und sollte auf die in diesem Bereich bestehenden Standards OSCI und XMeld aufbauen. Hierbei bestehen noch Hindernisse, da OSCI noch nicht für mobile Endgeräte umgesetzt worden ist. Außerdem wurde für die wirtschaftliche Nutzung, v.a. die  Potenziale der Abrechnung, noch nicht geklärt. Die Pilotversion wurde ersatzweise über einen OSCI-Proxy realisiert und wurde  nur begrenzt den notwendigen Sicherheitsstandards gerecht. Bevor die genannten Hindernisse nicht überwunden sind, ist mit einer endgültigen Realisierung  nicht zu rechnen. Immerhin wird an der Einführung einer flächendeckenden, digitalen Signatur in der Verwaltung derzeit gearbeitet, mit deren Einführung frühestens 2005 zu  rechnen ist.
+. 
+	G2B, G2G: Zielgruppe sind diesmal nicht der Bürger, sondern in erster Linie Transportunternehmen (G2B) und die Polizei (G2G), die von einer schnelleren  Identitätsüberprüfung profitieren sollen. 
+Die Idee wurde offenbar nicht realisiert
+	http://www.m-government.info/files/Mobile-Government_booklet-print.pdf
+S. 39
+ 
+	
+
+	
+
+	GER
+	2
+	Weiterbildung Mitarbeiter in der Cloud
+	Cloudbasiertes Training. Laut Materna besteht die Lösung aus einem Learning-Management-System, unterstützt den Einsatz virtueller Klassenräume und liefert virtuelle Trainingsinfrastrukturen. Ebenfalls neu ist die Schulung zu Sicherheitsfragen. Mithilfe der Training Suite könnten Organisationen selbst die größte Anzahl an Mitarbeitern in kurzer Zeit für das Thema IT-Sicherheit sensibilisieren. 
+	G2G, G2B
+Dadurch sind Schulungen orts- und endgerätunabhängig durchführbar und lassen sich flexibel an die jeweilige Anwenderanzahl anpassen. Weiterbildung aus der Cloud ist insgesamt flexibler, schneller realisierbar und effizienter.
+	http://www.kommune21.de/meldung_18353_Weiterbildung+in+der+Cloud.html
+
+
+	Materna,
+http://www.materna.de/DE/Loesungen/ServicesUndInfrastrukturenSchaffen/MaternaTrainingSuite/MaternaTrainingSuite_node.html
+
+
+Neuvorstellung CeBIT 2014
+	
+
+	GER
+	3
+	Collection to citizens
+	Identification and differentiation of fundamental components concerning mGov services 
+	
+
+	
+
+	
+
+	
+
+	
+
+		3.1.
+	SMS alerts for public safety
+
+
+	warnings on storms, bushfires, floods, bomb threats: crisis information and instructions. In Hong Kong SMS messages are used to target people with hearing difficulties who cannot hear audible warnings for floods and typhoons.
+	
+
+	
+
+	
+
+	
+
+		3.2.
+	Location-based services
+	such as tourism information, advice of health facilities in an area, weather or transport information
+
+
+	specifics: see No. 5
+	
+
+	
+
+	
+
+		3.3.
+	School Applications
+	no-show alerts to parents of school students to reduce truancy, SMS messages regarding school field trips or return of consent forms.
+	
+
+	
+
+	
+
+	
+
+		3.4.
+	Authentication Applications
+	use of mobile phones as an authentication mechanism (rather than a smart card for example), to enable access to government services
+	
+
+	
+
+	
+
+	
+
+		3.5.
+	Health applications
+	particularly SMS messages to remind patients to take medicines and attend appointments. This is a service currently provided by BreastscreenWA. 
+	specifics: see No. 6
+	
+
+	
+
+	
+
+		3.6.
+	Direct Citizen Interaction
+	SMS collection of citizen complaints, feedback, input to public issues
+	
+
+	
+
+	
+
+	
+
+		3.7.
+	Personalized SMS alerts
+	including: Library Books Due, Notification on Upcoming Parliament Sitting, Passport Renewal, License Renewal, Parking Offences, and Season Parking.
+	
+
+	
+
+	
+
+	
+
+		3.8.
+	Pay Bills and Fines
+	including traffic infringements, Land Tax, Payroll Tax etc.
+	specifics: see No. 7
+	
+
+	
+
+	
+
+		3.9.
+	Missing Persons Alerts
+	in Europe photographs of missing persons are sent to taxi drivers and bus drivers immediately the person is registered as missing.
+	
+
+	
+
+	
+
+	
+
+		3.10.
+	Tax verification
+	prefilled tax forms are sent to citizens’ mobile devices where on receipt they verify the details as being correct and confirm via an SMS message.
+	
+
+	
+
+	
+
+	
+
+	4
+	Collection: Potential field staff applications 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+		4.1.
+	Moving Images
+	video conferencing and information sharing. This will decrease the potential for isolation and will increase staff’ ability to collaborate while in the field.
+	* Fortbildung, see No. 2
+* 	
+
+	
+
+	
+
+		4.2.
+	File Transfer
+	pushing files to office for submission while in the field. This will increase staff’ efficiency, reduce workload and delays in the submission of reports.
+	
+
+	
+
+	
+
+	
+
+		4.3.
+	Collaborative Working
+	staff are able to communicate in real time while in the field on difficult issues and interact with other employees.
+	
+
+	
+
+	
+
+	
+
+		4.4.
+	Electronic Staff
+	there is the potential for some staff to work electronically from different field locations in order to service remote and rural communities as well as metropolitan areas without the need for a physical presence.
+	
+
+	
+
+	
+
+	
+
+		4.5.
+	Job Dispatch
+	urgent cases and new jobs can be dispatched while staff are away from the office. Information can also be forwarded to ensure staff are informed and updated on new developments.
+	
+
+	
+
+	
+
+	
+
+		4.6.
+	Remote Monitoring and instant messaging
+	central office management remain connected to field staff at all times. This not only increases the ability of the agency to monitor its staff but also increases the safety of the staff in the field.
+
+
+	
+
+	
+
+	
+
+	
+
+		4.7.
+	Field inspection
+	maintenance of government assets, with automatic upload to a central database. 
+	
+
+	
+
+	
+
+	
+
+		4.8.
+	Vehicle Positioning
+	allows central offices to remain in contact with staff and also allows them to ensure that they know the whereabouts of their staff. This will increase the safety level of field staff and reduce the risk of staff experiencing duress and the central office not being aware of their location. It is also useful during the transportation of dangerous goods.
+	
+
+	
+
+	
+
+	
+
+	5
+	Location-based Services (LBS)
+
+
+
+
+
+
+
+
+	Potential, Examples and Ideas:
+LBS are transforming the ways people across the country conduct business, organize their lives, and have fun. They can save time, money, and even lives. However, because of the technologies that enable them, LBS have the inherent ability to create accurate snapshots of their users’ activities that can contain very personal information. The potential of LBS to provide value and foster innovation to benefit the economy and consumers is tremendous. It is clear that there are also threats to consumers’ legitimate interest in protecting their personally identifiable information, in particular from the lack of clear and consistent disclosure about how that information is being collected, safeguarded and used by location-based services.
+
+
+	Location based services: 
+* Industry, 
+* Government, 
+* Business, 
+* Health
+z.B. Freiwilligendienste
+	Beispiele? Ideen?
+e.g. 
+* Microsoft: CityNext
+   * http://www.microsoft.com/government/ww/public-services/city-next/Pages/about.aspx
+
+
+
+
+	
+
+	
+
+	
+
+		5.1.
+	Citizen
+	Navigation and Travel – Applications in this category allow a user to perform a search based in part on location, i.e., to find the nearest hotel, ATM, bus stop, or particular restaurant. 
+
+
+	Examples: WHERE, Yelp, Zagat, MapQuest 4Mobile, Google Places, Yellow Pages Mobile, NextBus, OpenTable, and Star Walk
+
+
+	
+
+	
+
+	
+
+	
+
+	5.2.
+	Citizen
+	Tracking and Geosocial Networking– Using applications in this category, users can share their location with friends, family, or strangers via online social networks. Included in this category are applications that recommend restaurants or other places of interest based on where a user’s network of “friends” has checked-in, or that enables businesses to reward their customers for loyalty based on repeated visits or check-ins. Other applications in this category enable parents to track the location of their children, family and caregivers to monitor dementia patients, and pet owners to recover lost dogs.
+	Examples of tracking and social location “check-in” applications include FourSquare, Loopt, Family Locator, Adient, Tagg, FindFriends, Gowalla, Facebook Places, Twitter, and Yelp.
+
+
+	
+
+	
+
+	
+
+	
+
+	5.3.
+	Citizen
+
+
+	Gaming and Entertainment – These applications allow users to play games on their wireless devices with friends and family, persons in their local network, or anyone online. Some location-based games track phone movement and create real-life scavenger hunts. This category also includes photography and video applications that record the GPS location tags for photos and videos or allow users to add location information to their photos.
+
+
+	Scrabble, Tourality, iPhone Camera, Flickr, and Geocaching.
+
+
+	
+
+	
+
+	
+
+	
+
+	5.4. 
+	Citizen, Business
+	Retail and Real Estate – Retail applications enable consumers to find the nearest store, provide in-store maps, check real-time inventory data, or shop from their phone, while real estate applications show houses for sale or rent or in foreclosure in a given area.
+	Google Shopper, Target, Home Depot, HUD Homes, and Zillow Real Estate Search.
+	
+
+	
+
+	
+
+	
+
+	5.5.
+	Business
+	Advertising – Location-based advertising allows users to receive ads relevant to their current location or based on patterns of frequently visited locations. The ads generally appear within other applications or in web browser windows.
+
+
+	WHERE Ads, SkyHook, go2 Media, and Smaato.
+	
+
+	
+
+	
+
+	
+
+	5.6.
+	Citizen
+	News and Weather – These applications provide users with weather and news targeted to their specific location. Some applications provide connection to local radio or TV providers for video or audio streaming, including access to police scanners.
+
+
+	The Weather Channel, Weather HD, USA Today, NPR News, Stitcher Radio, ABC News, and Scanner911
+	
+
+	
+
+	
+
+	
+
+	5.7.
+	Citizen, Business, Industry
+	Device Management – LBS management applications allow users to track and control their wireless devices from other sources (like a home computer) or to control other devices from their wireless devices. This may include tracking, locking, or erasing a lost phone, or locating, unlocking, and starting a vehicle.
+	Find My iPhone, Lookout, OnStar MyLink, and myChevrolet.
+	
+
+	
+
+	
+
+	
+
+	5.8.
+	Government, e.g. Police, Citizen
+	Public Safety – Some LBS applications principally serve public safety functions. In addition to the San Ramon Valley California Fire Protection District CPR application described above, Google is developing an “Amber Alert” application that would inform users in the possible vicinity of missing or abducted children. Another application that has been developed by the University of Maryland enables students to alert campus security to an incident, provide its location, and stream live audio and video directly to the dispatcher
+
+
+	http://www.emergencymgmt.com/safety/Smartphone-Application-V911-Maryland.html
+
+
+	
+
+	
+
+	
+
+	6
+	mHealth
+	While People are living longer, many are not living  better. With soaring healthcare costs, and obesity and diabetes at epidemic levels, our nation’s physical and financial health is being compromised. To reverse these trends, healthcare providers need to find new ways to empower people to take charge of their health and lower costs without sacrificing quality. The question is: How do they bring about this transformation? The answer: technology. 
+* Patients who stay connected with hospitals, caregivers and physicians are more satisfied with their care and get better quicker. They also have fewer repeat hospitalizations, manage their chronic disease better and cost payers/providers less money. Using innovative technology to securely connect  patients and families to physicians  and caregivers.
+* Delivering quality Care in the field. Today’s healthcare professionals are highly mobile, visiting patients at their homes, clinics and hospitals, and they need immediate access to patient health and clinical reference information as well as to each other, to improve care.
+
+
+
+
+	* Stay connected: Verizon is designing  solutions to keep patients connected with their healthcare
+* Quality care in the Field: The Verizon mobile clinician solution is designed to leverage secure, high-speed mobile networks, smartphones and tablets, combined with partner solutions from providers such as IQMax, Calgary Scientific and CellTrak, to provide physicians and clinicians with the tools they need to be more productive and provide better care in the field.
+	http://www.verizonenterprise.com/us/solutions/mobile-workforce/ 
+	
+
+	
+
+	USA
+		6.1. 
+LifeWise mobile app 
+	Collaboration with ensurances: 
+Members who log into the mobile site can view claims, see their current plan benefit information and determine approximate treatment costs. Even if they don’t log in, users can still find a physician, shop for plans, locate the nearest urgent care center and contact customer service.members can locate nearby network physicians, urgent care clinics and emergency rooms.
+
+
+	The LifeWise mobile app gives members convenient electronic access to services, including identification cards at the touch of a button. The app includes the ability to email the virtual card from their smartphone to their provider. The app’s other key components  include a provider directory and the  ability to connect to the insurer’s  customer service center and  24-hour nurse line.  Members with LifeWise personal  funding accounts can also use  the app to get account and balance information.
+
+
+	https://itunes.apple.com/us/app/lifewise-mobile/id489751848?mt=8 
+	
+
+	iOS, Android, Windows Phone
+	
+
+		6.2.
+OptumizeMe app
+	The OptumizeMe app focuses on engaging consumers through gaming and socializing. In 2011, the app was released for Apple and Android devices. In March, it was updated to enable employers to conduct drawings and give prizes for employees meeting goals established in the app, a compliment to a feature already OptumizeMe that rewards users with virtual “badges” as goals are met.
+	The app allows any user, even those who are not insured by United, to create or join a health or fitness challenge, such as walking or cycling, reducing stress and healthier eating. Users can track progress, invite others to join the challenge and communicate with other participants.
+	https://play.google.com/store/apps/details?id=com.optumizeme.optum&hl=de 
+	OptumHealth, a UnitedHeath Group company based in Golden Valley, Minn.
+	
+
+	
+
+	7
+	Mobile Payment
+	* Z.B. Parkzettel
+* Maut
+* Fines,
+* Taxes,
+* Registrations,
+* Permits
+* certificates,
+* identification cards
+
+
+	Examples?
+	
+
+	
+
+	
+
+	
+
+		7.1. E-Payment Düren
+(Teststatus)
+	Als deutschlandweit erste Kommune testet nun die Stadt Düren die sicheren und rechtsverbindlichen elektronischen Kanäle. Neben dem Austausch von Informationen und Dokumenten, den inzwischen viele Kommunen anbieten, bietet Düren seinen Bürgern in Zukunft auch sicheren Geldtransfer. Dabei setzt die Stadt im Rheinland auf die Erfahrung und Akzeptanz von PayPal für elektronische Zahlungsmöglichkeiten.
+	Ein PayPal-Konto biete den Kunden Sicherheit bei der Bezahlung ihrer Gebühren. Bei jedem weiteren Bezahlvorgang reiche die Identifikation per E-Mail-Adresse und persönlichem Kennwort. Zeitaufwändige Behördengänge mit langen Warteschlangen am Zahlschalter würden so ebenfalls entfallen, da Bürger ihre Transaktionen von zu Hause aus erledigen können. Auch die Behörden würden durch E-Gov mit integrierten E-Payment-Lösungen entlastet. Nach der Etablierung als Zahlungsoption im E-Payment-Angebot der hessischen Landesverwaltung baut PayPal sein Engagement im öffentlichen Sektor weiter aus und bietet seinen Service nun in Düren auch erstmals auf Kommunalebene an. Leistungen wie der Bewohnerparkausweis, die Anmeldung zur Hundesteuer oder die Beantragung der Meldebescheinigung können im Dürener Online-Bürgerportal bald mit PayPal bezahlt werden.
+	http://www.gfm-nachrichten.de/news/aktuelles/article/paypal-macht-in-e-government.html 
+	Paypal, 
+regio iT 
+	
+
+	GER
+		7.2.
+Clinkle
+	Die „Wunder-App Clinkle“ sicherte sich vor einem Jahr die größte Seed-Finanzierung aller Zeiten. Nun könnte sich Clinkle zu einem der teuersten Flops aller Zeiten entwickeln.
+	Clinkle released an app for download on Google Play and the iTunes Store. The current versions have very limited functionality and only allow users to join a waitlist. The company has released limited information about its future product. The product will include a mobile app that serves as an online wallet. Wallets will be able to be linked to existing credit cards or bank accounts. A June 2013 report by TechCrunch stated that the app used high-frequency sound to send payments between devices; however, the section was shortly retracted. Clinkle confirmed that the product would not require near field communication, a wireless technology used by Google Wallet that is not supported by Apple devices. Clinkle has stated that the product will also provide merchants with information about their customers for the purpose of targeted sales promotions.
+	http://t3n.de/news/mobile-payment-wunder-clinkle-540140/ 
+	
+
+	
+
+	USA
+		7.3.
+Biometrisches Bezahlen: 
+Nymi und Quixter
+	So hat das aus Toronto stammende Unternehmen bionym das Armband „Nymi“ vorgestellt, welches das Eintippen von PINs und Kennwörtern überflüssig macht. „Nymi“ unterscheidet sich optisch nur unwesentlich von Fitness-Armbändern wie dem Jawbone oder dem Fuelband, funktionell indes schon: „Nymi“ ermittelt die Identität des Trägers durch dessen Herzschlag, welcher bei jedem Menschen einzigartig ist. Anders als Fingerabdrücke kann der Herzschlag nicht nachgeahmt werden und soll so für eine hohe Sicherheit sorgen. Noch ist „Nymi“ nicht auf dem Markt, kann aber schon vorbestellt werden und soll noch Mitte dieses Jahres ausgeliefert werden. „Nymi“ hat zunächst nichts mit Bezahlverfahren zu tun, zeigt aber die Möglichkeiten und Entwicklungen in der biometrischen Erkennung. Das schwedische Startup Quixter  hat ein Verfahren vorgestellt, bei dem nicht der Fingerabdruck zur Authentifizierung dient, sondern die komplette Handfläche. Rund um den Campus der Universität Lund wird Quixter bereits testweise eingesetzt. Auch Quixter soll besonders sicher sein, da eine komplette Handfläche nur schwer gefälscht werden kann. Zusätzlich zur Handfläche ist außerdem die Eingabe einer PIN notwendig, um die Transaktion zu legitimieren
+	Basis des Bezahlverfahrens Paypal? 
+	http://t3n.de/news/bezahlverfahren-biometrisch-540279/ 
+	
+
+	
+
+	
+
+	8
+	Weiterentwicklung G2E
+(mit Außenbezug)
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+		8.1. 
+Müllabfuhr
+	z.B. Container meldet Befüllungsstand und letzte Leerung. 
+	Optimierung und Vermeidung von “Leer”fahrten. 
+	
+
+	
+
+	
+
+	
+
+		8.2.
+Bauwesen (Überprüfung von Baumaßnahmen vor Ort)
+	z.B. Mobile elektronische Bauakte. 
+Der öffentliche Sektor ist in vielen Bereichen als Bauträger tätig, etwa bei kommunalen Betrieben. Auch bei kleinen Baumaßnahmen sind umfangreiche Bauakten erforderlich. Die Bauleiter, die meist verschiedene Baustellen betreuen, können durch mobile Lösungen nachhaltig an Ort und Stelle unterstützt werden, denn in einer mobilen elektronischen Bauakte stehen die jeweils nötigen Informationen wie etwa Baupläne oder rechtliche Auflagen aktuell zur Verfügung bzw. können jederzeit übermittelt werden. Eintragungen in die Akte können bequem an Ort und Stelle durchgeführt und unmittelbar ins Zentralsystem eingespeist werden. 
+
+
+	Zielgruppe: Bauleiter öffentlicher Betriebe. 
+Mehrwert: Komfort, Verfügbarkeit von Bauplänen und anderen Daten.
+Mögliche Ausbaustufen: Einbindung der Bauverwaltung und anderer Beteiligter
+	Gibt wohl ein Pilotprojekt der Berliner Wasserbetriebe  
+
+
+	
+
+	
+
+	
+
+		8.3. 
+Ordnungswesen (Knöllchen nur ein Bereich - "Strassenbegeher", ...)
+	Zielgruppe sind die Mitarbeiter von z.B. Ordnungsamt. Anwendung: Schadensmeldungen, Kontrollen, Bußgelder.
+Mitarbeiter des Ordnungsamtes sind vor allem mit Kontrollaufgaben in den Kommunen
+unterwegs, achten auf Straßenschäden, Falschparker oder Verstöße aller Art. Mit mobilen Geräten könnten sie z.B.:
+* Straßenschäden per Digitalfoto direkt elektronisch melden
+* Bußgelder z.B. für widerrechtliche Müllentsorgung an Ort und Stelle verhängen
+* Falschparker flexibler und bürgerfreundlicher behandeln (SMS an entsprechend registrierte Autofahrer: „Sie haben 15 Minuten Zeit, Ihren Wagen zu entfernen...“).
+Die abendliche papierbasierte Datenerfassung entfiele, mehr Präsenz auf der Straße wäre die Folge. Die Unmittelbarkeit des Handelns erhöht die Zufriedenheit und beeindruckt den Bürger. 
+Die Möglichkeiten, die Zahl und Qualität der Anwendungen in diesem Bereich zu steigern, sind fast unbegrenzt.
+	Mehrwert:Schnelligkeit, Datenabgleich, Reduktion der Arbeitsschritte
+Mögliche Ausbaustufen: Mehr Möglichkeiten in der Anwendungstiefe und -breite.
+
+
+	
+
+	
+
+	
+
+	
+
+		8.4.
+Mobile Lösungen für Krankentransporte u. Rettungswesen
+	Zielgruppe: Krankenwagen, Notärztel.
+Bei Unfällen und Notfalleinsätzen entscheiden schnelles und richtiges Handeln über Leben und Tod:
+* Mobile Endgeräte im Krankenwagen ermöglichen die Übermittlung von Patientendaten an die Klinik. Dadurch kann diese den Notarzt an Ort und Stelle unterstützen und sich zugleich spezifisch auf den eintreffenden Patienten vorbereiten
+* Über mobile Lösungen kann zudem unter vielen Kliniken die „richtige“ (d.h. nächste,spezialisierte, freie) Klinik ausgewählt werden.
+Die Einbindung von Arzt und Patient in das Kompetenznetz evtl. sogar mehrerer Krankenhäuser schon während des Transports verdeutlicht den erwähnten kritischen Zeitvorteil mobiler Lösungen. Erweiterungen sind unter anderem in der mobilen Fernsteuerung medizinischer Geräte im Krankenwagen durch Krankenhausärzte möglich, die so ggf. fehlendes Personal im Fahrzeug zumindest teilweise ersetzen können. 
+	Mehrwert: Schneller, informierter, sicherer für die Einsatzkräfte
+Mögliche Ausbaustufen: Mobile Fernsteuerung medizinischer Geräte
+
+
+	xMotion: Drahtlos retten – Projekt in Bremen (Check PDF)
+	
+
+	
+
+	GER
+		8.5. 
+Mobile Lösungen für Krankenversorgung und Pflegewesen
+	Zielgruppe: Ärzte, Krankenhauspersonal, Pflegekräfte.
+Die bisher eher statischen Systeme von Krankenversorgung und Pflege lassen sich durch mobile Technologien ganz erheblich dynamisieren.
+* Patienten können mobil medizinisch überwacht werden. Dies ermöglicht ihre Entlassung aus der Klinik und dennoch das rechtzeitige Eingreifen bei Notfällen
+* Vitalwerte am Krankenbett können mobil erfasst werden und in eine mobile elektronische Patientenakte einfließen, die die Papierakte ersetzt. So ist immer deren Aktualität gewährleistet, und Verläufe der Vitalwerte werden viel deutlicher sichtbar
+* Die Pflegelogistik kann über die mobile individuellen Erfassung der jeweiligen Pflegewünsche verbessert werden, und die mobile Koordination häuslicher Pflegekräfte kann durch mobile Anwendungen flexibler gestaltet werden, etwa bei Ausfällen und kurzfristigen Umplanungen. 
+In der Kooperation mit Krankenkassen liegen weitere Anwendungsfelder. Die Krankenkassen können über die jeweilige Therapie aktuell informiert und die Abrechnungsmodalitäten vereinfacht werden. 
+
+
+	Mehrwert: Flexiblere Organisation, bessere Betreuung, Kostensenkung
+Mögliche Ausbaustufen: Kooperation mit Krankenkassen
+
+
+	Umsetzung: Pilotprojekte in Bremen, Einsatz in den USA
