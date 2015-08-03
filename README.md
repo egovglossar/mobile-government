@@ -1,7 +1,6 @@
-StartFragment**
 # Collecting “MobileGov” Best Practices worldwide 
   
-Definition “mobileGov”:
+## Definition “mobileGov”:
 
 MobileGov is public service delivery including transactions on mobile devices.
 
