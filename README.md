@@ -1,8 +1,3 @@
-# mobile-government
-DAR Collecting Mobile Government Best Practices
-
-
-
 StartFragment**
 # Collecting “MobileGov” Best Practices worldwide 
   
